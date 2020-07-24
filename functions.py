@@ -54,10 +54,10 @@ def data_prep():
     }).reset_index()
     grouped_merged_df['replies_score'] = pd.qcut(
         grouped_merged_df['replies'],
-        8,
-        labels=[1, 2, 3, 4, 5, 6, 7, 8])
+        10,
+        labels=[1, 2, 3, 4, 5, 6, 7, 8,9,10])
     grouped_merged_df['views_score'] = pd.qcut(
-        grouped_merged_df['views'], 5, labels=[1, 2, 3, 4, 5])
+        grouped_merged_df['views'], 10, labels=[1, 2, 3, 4, 5, 6, 7, 8,9,10])
     grouped_merged_df['recency_score'] = pd.qcut(
         grouped_merged_df['recency'],
         10,
