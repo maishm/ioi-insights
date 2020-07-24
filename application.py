@@ -2,108 +2,123 @@ import pandas as pd
 import numpy as np
 import datetime
 import streamlit as st
+import geojson
 import geopandas as gpd
 from tqdm import tqdm
 import plotly.graph_objects as go
+import plotly.express as px
 import pydeck
-from shapely.geometry import Polygon ,LineString, MultiLineString, Point
-from post_scraper import * 
-from web_scraper import * 
+from shapely.geometry import Polygon, LineString, MultiLineString, Point
+from post_scraper import *
+from web_scraper import *
+from functions import * 
+ 
+def max_width():
+    max_width_str = f"max-width: 900px;"
+    st.markdown(
+        f"""
+    <style>
+    .reportview-container .main .block-container{{
+        {max_width_str}
+    }}
+    </style>    
+    """,
+        unsafe_allow_html=True,
+    )
 
+max_width()
+token = "pk.eyJ1IjoibWFpc2htIiwiYSI6ImNrY3l5Z2t4ajBjbnkydGw1cnh5ZzE2M28ifQ.l6cx1ryk4TasgOVXa1rCRQ" 
 df = pd.read_csv("data/clean_forum_data.csv")
+mapped_df = pd.read_csv("data/mapped_df.csv")
+
 st.title("IOI Insights")
-st.markdown(
-            """
+st.markdown("""
             Team Green Phoenix. 
-            ### Get dynamic updates on properties through social listening. 
-            ### Locate the hottest trending properties right now and deep dive into each to understand why. 
-            """)  
-st.sidebar.markdown( """
-                    ## The go to place to understand the current property market place in klang valley.  
-                    <p> The community feedback is quantified and shown at a property level, enabling marketeers and other decision makers identify the problems and opportunities like never before. </p>"""
-                        , unsafe_allow_html=True)
+            ### Get dynamic updates on properties through social listening. Locate the hottest trending properties right now and deep dive into each to understand why. 
+            """)
+st.sidebar.markdown("""
+                    ## The go to place to understand the current property market in klang valley.  
+                    <p> Community feedback is quantified and shown at a property level, enabling marketeers 
+                    and other decision makers identify the problems and opportunities like never before. </p>""",
+                    unsafe_allow_html=True)
 
 st.sidebar.button('Refresh Data')
 
 st.sidebar.markdown(f"Last refreshed at {df['last_posted_at'][0]}.")
 
-@st.cache(suppress_st_warning=True)
-def data_prep(): 
-    peninsular_malaysia = gpd.read_file("peninsular_malaysia.geojson")
-    klang_valley = peninsular_malaysia[peninsular_malaysia['negeri'].isin(['WILAYAH PERSEKUTUAN KUALA LUMPUR','SELANGOR', 'WILAYAH PERSEKUTUAN PUTRAJAYA'])]
-    geocoded_df = pd.read_csv("data/geocoded_clean_forum_data.csv")
-    geocoded_df = geocoded_df[geocoded_df['status'] == "OK"]
-    merged_df = geocoded_df.merge(df, left_on='input_string', right_on='name')
-    merged_df = merged_df[['name', 'formatted_address', 'latitude', 'longitude', 'postcode',  'replies', 'views', 'last_posted_at']]
-    merged_df['replies'] = merged_df['replies'].apply(lambda x: x.replace(',',''))
-    merged_df['views'] = merged_df['views'].apply(lambda x: x.replace(',',''))
-    merged_df['replies'] = merged_df['replies'].apply(lambda x: int(x))
-    merged_df['views'] = merged_df['views'].apply(lambda x: int(x))
-    
-    today = datetime.date.today()
-    merged_df['last_posted_at'] = pd.to_datetime(merged_df['last_posted_at'], format='%Y/%m/%d')
-    merged_df['last_posted_at'] = merged_df['last_posted_at'].apply(lambda x: x.date())
-    merged_df['recency'] = merged_df['last_posted_at'].apply(lambda x: abs(x - today)).dt.days
-    # merged_df['views_replies_ratio'] = merged_df['replies'].astype(int) / merged_df['views'].astype(int)
-    grouped_merged_df = merged_df.groupby('formatted_address').agg({'replies' : np.sum, 'views' : np.sum, 'last_posted_at' : np.max, 'recency' : np.mean, 'latitude' : np.max, 'longitude' : np.max}).reset_index()
-    grouped_merged_df['replies_score'] = pd.qcut(grouped_merged_df['replies'],10, labels=[1,2,3,4,5,6,7,8,9,10])
-    grouped_merged_df['views_score'] = pd.qcut(grouped_merged_df['views'],10, labels=[1,2,3,4,5,6,7,8,9,10])
-    grouped_merged_df['recency_score'] = pd.qcut(grouped_merged_df['recency'],10, labels=[1,2,3,4,5,6,7,8,9,10])
-    # grouped_merged_df['views_replies_ratio_score'] = pd.qcut(grouped_merged_df['views_replies_ratio'],5, labels=[1,2,3,4,5])
-    grouped_merged_df['recency_score'] = grouped_merged_df['recency_score'].apply(lambda x: 11 - x)
+trending = mapped_df.sort_values('recency').nlargest(5, 'total_score')
+trending = trending[['name', 'total_score']].reset_index()
+st.markdown(f""" <b>Top 5 Hottest Properties Right Now! </b> :fire: \n
+                1- {trending['name'][0]} \n
+                2- {trending['name'][1]} \n
+                3- {trending['name'][2]} \n
+                4- {trending['name'][3]} \n
+                5- {trending['name'][4]}
+                """, unsafe_allow_html=True)
 
-    grouped_merged_df['replies_score'] = grouped_merged_df['replies_score'].astype(np.int8)
-    grouped_merged_df['views_score'] = grouped_merged_df['views_score'].astype(np.int8)
-    grouped_merged_df['recency_score'] = grouped_merged_df['recency_score'].astype(np.int8)
-    # grouped_merged_df['views_replies_ratio_score'] = grouped_merged_df['views_replies_ratio_score'].astype(np.int8)
-    grouped_merged_df['total_score'] = grouped_merged_df['replies_score'].apply(lambda x: x * grouped_merged_df['views_score'][x]* grouped_merged_df['recency_score'][x])
+@st.cache(persist=True, allow_output_mutation=True)
+def generate_fig1():  
+    labels_fig1 = {
+        'replies': 'No. of Replies',
+        'views': 'No. of Views',
+        'recency': 'Days Since Last Post',
+        'total_score': 'Score'
+    }
+    fig1 = px.scatter_mapbox(
+        mapped_df,
+        lat="lat",
+        lon="long",
+        color='total_score',
+        hover_name="name",
+        hover_data=["replies", 'views', 'recency', "total_score"],
+        color_continuous_scale="Viridis",
+        zoom=10,
+        height=600,
+        labels=labels_fig1,
+        size='total_score')
+    fig1.update_layout(mapbox_style="dark", mapbox_accesstoken=token)
+    fig1.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+    return fig1
 
-    lat = grouped_merged_df['latitude']
-    long = grouped_merged_df['longitude']
-    poly = klang_valley['geometry']
-    area_names = klang_valley['hood']  
-    replies = grouped_merged_df['replies']
-    views = grouped_merged_df['views']
-    address = grouped_merged_df['formatted_address']
-    total_score = grouped_merged_df['total_score']
+@st.cache(persist=True, allow_output_mutation=True)
+def generate_fig2():
+    with open("peninsular_malaysia.geojson") as f:
+        gj = geojson.load(f)
+    labels_fig2 = {
+        'replies': 'No. of Replies',
+        'areas_within': 'Area Name',
+        'recency': 'Days Since Last Post',
+        'total_score': 'Score'
+    }
+    fig2 = px.choropleth_mapbox(mapped_df,
+                            geojson=gj,
+                            color="total_score",
+                            locations="areas_within",
+                            featureidkey="properties.hood",
+                            center={ "lat": 3.120, "lon": 101.65},
+                            labels=labels_fig2,
+                            color_continuous_scale="Viridis",
+                            hover_data=["replies", "recency", "total_score"],
+                            zoom=10,
+                            height=600)
+    fig2.update_layout(mapbox_style="dark", mapbox_accesstoken=token)
+    fig2.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
+    return fig2
 
-    points_within = []
-    areas_within = []
-    for x,y in tqdm(zip(long,lat)):
-        points=Point(x,y)
-        answer=None
-        area=None
-        for a,b in zip(area_names, poly):
-            try:
-                if points.within(b.buffer(0)):
-                    answer = b
-                    area = a
-                    break
-            except:
-                pass
-        points_within.append(answer)
-        areas_within.append(area)
+fig1 = generate_fig1()
+fig2 = generate_fig2()
 
-    zipped_mapped_df = zip(address, lat, long, replies, views, total_score, areas_within, points_within) 
-    mapped_df = pd.DataFrame(zipped_mapped_df, columns=['address', 'lat', 'long', 'replies', 'views', 'total_score', 'areas_within', 'points_within'])
-    
-    area_name_poly_dict = dict(zip(area_names, poly))
+if st.checkbox("Show Individual Properties"):
+    st.write(fig1)
+else: 
+    st.write(fig2)
 
-    grouped_mapped_df = mapped_df.groupby(['areas_within']).agg({'replies' : np.sum, 'views' : np.sum, 'total_score' : np.mean, 'address' : 'nunique'}).reset_index()
+filtered_df = mapped_df[['name', 'replies', 'views', 'recency', 'total_score', 'areas_within']]
+st.markdown("""### Top Properties for Each Area""")
 
-    grouped_mapped_df['polygon'] = grouped_mapped_df['areas_within'].map(area_name_poly_dict)
-    
-    return mapped_df
+area = st.selectbox('Choose Area:', options=mapped_df['areas_within'].unique(), )
+filtered_df =  filtered_df[filtered_df['areas_within'] == area].sort_values('recency', ascending=True).nlargest(2, 'total_score')
+st.table(filtered_df)
 
-mapped_df = data_prep()
-
-mapped_df_ = mapped_df.rename(columns={'long' : 'lon'})
-
-fig = go.Figure()
-
-fig.add_trace(go.Scattergeo(
-    lat=mapped_df_['lat'],
-    lon=mapped_df_['lon']
-))
-
-st.write(fig)
+st.title("Sentiment Analysis")
+st.markdown("To deep dive into the hot properties, we have to look at what people are saying about these properties to quantify it and make sense out of it.")
