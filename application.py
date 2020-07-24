@@ -8,6 +8,7 @@ from tqdm import tqdm
 import plotly.graph_objects as go
 import plotly.express as px
 import pydeck
+import collections
 from shapely.geometry import Polygon, LineString, MultiLineString, Point
 from post_scraper import *
 from web_scraper import *
@@ -29,6 +30,10 @@ def max_width():
 max_width()
 token = "pk.eyJ1IjoibWFpc2htIiwiYSI6ImNrY3l5Z2t4ajBjbnkydGw1cnh5ZzE2M28ifQ.l6cx1ryk4TasgOVXa1rCRQ" 
 df = pd.read_csv("data/clean_forum_data.csv")
+df_elmina = pd.read_csv("model/post_data/sentiment_mapped/df_elmina.csv")
+df_cruise = pd.read_csv("model/post_data/sentiment_mapped/df_cruise.csv")
+df_clio = pd.read_csv("model/post_data/sentiment_mapped/df_clio.csv")
+df_tuai = pd.read_csv("model/post_data/sentiment_mapped/df_tuai.csv")
 mapped_df = pd.read_csv("data/mapped_df.csv")
 
 st.title("IOI Insights")
@@ -74,8 +79,7 @@ def generate_fig1():
         color_continuous_scale="Viridis",
         zoom=10,
         height=600,
-        labels=labels_fig1,
-        size='total_score')
+        labels=labels_fig1)
     fig1.update_layout(mapbox_style="dark", mapbox_accesstoken=token)
     fig1.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     return fig1
@@ -116,9 +120,93 @@ else:
 filtered_df = mapped_df[['name', 'replies', 'views', 'recency', 'total_score', 'areas_within']]
 st.markdown("""### Top Properties for Each Area""")
 
-area = st.selectbox('Choose Area:', options=mapped_df['areas_within'].unique(), )
+area = st.selectbox('Choose an Area:', options=mapped_df['areas_within'].unique(), )
 filtered_df =  filtered_df[filtered_df['areas_within'] == area].sort_values('recency', ascending=True).nlargest(2, 'total_score')
 st.table(filtered_df)
 
 st.title("Sentiment Analysis")
-st.markdown("To deep dive into the hot properties, we have to look at what people are saying about these properties to quantify it and make sense out of it.")
+st.markdown("We have to look at what people are saying about these properties to quantify it and make sense out of it.")
+option = st.selectbox('Choose a Property:', options=['-', 'ELMINA GREEN 3 BY SIME DARBY', 'THE CRUISE @ BANDAR PUTERI PUCHONG', 'TUAI RESIDENCE @ SETIA ALAM', 'THE CLIO RESIDENCE @ IOI RESORT CITY'])
+if option == '-': 
+    st.warning('Select a property to continue')
+else: 
+
+    def sentiment_analysis(): 
+
+        if option == 'ELMINA GREEN 3 BY SIME DARBY': 
+            sentiment_df = df_elmina
+        elif option == 'THE CRUISE @ BANDAR PUTERI PUCHONG':
+            sentiment_df = df_cruise
+        elif option == 'TUAI RESIDENCE @ SETIA ALAM':
+            sentiment_df = df_tuai
+        elif option == 'THE CLIO RESIDENCE @ IOI RESORT CITY':
+            sentiment_df = df_clio
+
+        sentiment_df['date'] = pd.to_datetime(sentiment_df['date'])
+        sentiment_df['sentences'] = sentiment_df['sentences'].astype(str)
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace(".", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("elmina", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace(",", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("nit", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("...,", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("..,", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("...", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("..", ""))    
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("u,", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("u", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("le,", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("le", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("psf,", ""))
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("sa", ""))
+        sentiment_df['sentiment_type'] = sentiment_df['sentiment_score'].apply(lambda x: 'Positive' if (x > 0) else 'Negative')
+        sentiment_df['sentiment_score'] = sentiment_df['sentiment_score'].astype(float)
+        min_date = sentiment_df['date'].min().strftime('%d %B, %Y')
+
+        fig3 = px.bar(sentiment_df.groupby('sentiment_type').agg({'sentiment_score' : 'sum'}).reset_index(), x='sentiment_type', y='sentiment_score' ,title= 'Overall Sentiment', 
+                                labels={'sentiment_type' : 'Sentiment Type',
+                                        'sentiment_score' : 'Sentiment Score'},
+                                color='sentiment_type',
+                                color_discrete_map={
+                                                "Positive": "royalblue",
+                                                "Negative": "tomato"})
+
+        fig4 = px.line(sentiment_df, x='date', y='sentiment_score', title='Sentiment Over Time', color='sentiment_type',
+                                        labels={'date' : 'Date Posted',
+                                                'sentiment_score' : 'Sentiment Score'},
+                                        color_discrete_map={
+                                                "Positive": "royalblue",
+                                                "Negative": "tomato"})
+
+        st.markdown(f"""**Total sentiment score for this property is {round(sentiment_df['sentiment_score'].sum())}**.\n
+                        Total {sentiment_df['users'].nunique()} people have written about this since {min_date}.""")
+        st.write(fig3)
+        st.write(fig4)
+
+        
+        all_words = sentiment_df['sentences']
+        words_in_post = [word.lower().split() for word in all_words]
+        words_in_post = list(itertools.chain(*words_in_post))
+        counts_words = collections.Counter(words_in_post)
+
+        common_words = pd.DataFrame(counts_words.most_common(30),
+                             columns=['word', 'count'])
+
+        # Plot horizontal bar graph
+        fig5 = px.bar(common_words.sort_values('count', ascending=True), x='count', y='word',
+                    labels={'count' : 'Number of Occurences', 'word' : 'Word'},
+                    title='Most Common Words',
+                    color= 'count',
+                    color_continuous_scale="Viridis")
+
+
+        st.write(fig5)
+
+
+
+
+    sentiment_analysis()
+
+
+    
+
+    

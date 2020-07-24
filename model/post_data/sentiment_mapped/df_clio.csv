@@ -1,0 +1,661 @@
+,sentences,users,date,sentiment_score
+0,"clay, brick, cement, brick, project, cement, brick, project, want, buy",Z1000,"Nov 11 2013, 08:28 PM",0.0772
+1,"register, pm",forsale0121,"Nov 11 2013, 08:28 PM",0.0
+2,"dude, ramble, brick, forum, cement, brick, bad",guilty25,"Nov 11 2013, 08:39 PM",-0.5423
+3,"ppl, know, tat, project, 1, mil, cement, brick, buyer, know, honest, low, profile, thank",Z1000,"Nov 11 2013, 08:41 PM",0.5719
+4,"seriously, don, understan, nessasary, u, thread, huu, haaa, clay, brick, vs, cement, brick, ...., u, thread, talkin, tis, ...., think, peri, peri, gor, aldy, explain, ...., construction, industry, guess, right, man, clarify, ...., kinda, feed, ur, comment, flooding, thread, ...",shadowofevil,"Nov 11 2013, 10:16 PM",-0.1779
+5,"come, guy, ioi, properties, project, brick, ....",TSaccetera,"Nov 11 2013, 10:26 PM",0.0
+6,"hope, ioi, use, red, brick.it, matter",tikaram,"Nov 11 2013, 10:36 PM",0.4588
+7,"rm500, 550psf, freehold, size, 843, sq, ft, 1,388, sq, ft",TSaccetera,"Nov 11 2013, 11:03 PM",0.1779
+8,"shadow, bo, ...., nice, pricing, ..., launch, mate, ..., info, plz, p",shadowofevil,"Nov 12 2013, 10:43 AM",0.4767
+9,"shadow, bo, ...., nice, pricing, ..., launch, mate, ..., info, plz, p",shadowofevil,"Nov 12 2013, 10:51 AM",0.4767
+10,confirm,nakedtruth,"Nov 12 2013, 11:36 AM",0.0
+11,"1st, sand, brick, cement, brick, ...., hmm, ..., clio, condo, price, different, ioi, resort, condos, puteri, ...., close, mall",BEANCOUNTER,"Nov 12 2013, 11:41 AM",0.0
+12,"think, use, brick, pour, concrete, mold",puchongite,"Nov 12 2013, 11:46 AM",0.0
+13,"puteri, palma, currently, low, occupancy, maybe, developer, unit, availableioi, need, sell, master, plan, ioi, resort, cityya, walk, distance, mall",CMW123,"Nov 12 2013, 12:08 PM",-0.2732
+14,"thank, info, yea, interested, 500psf, 1388sf, 5, 8, rebate",Kvsual,"Nov 16 2013, 10:21 AM",0.6369
+15,"dear, bro, possible, photo, wording, left",Kvsual,"Nov 16 2013, 10:24 AM",0.3818
+16,"look, forward, hope, wil, launch, asap, hopefully, face, beautiful, golf, course, near, ioi, city, mall",Kvsual,"Nov 16 2013, 10:51 AM",0.8591
+17,"tot, u, look, landed, now?is, ioi, resortcity, consider, putrajaya",Kvsual,"Nov 16 2013, 11:16 AM",0.0
+18,"nice, interesting, area, finally",maldiniho,"Nov 17 2013, 09:44 AM",0.6705
+19,"ppl, kajang, south, cheras/, puchong, south, seri, kembangan, draw, mall, single, race, dominance, opinion",maldiniho,"Nov 17 2013, 10:08 AM",0.2023
+20,"register, project",dcon,"Nov 17 2013, 01:08 PM",0.0
+21,"like, know, register, website, general",ftan,"Nov 17 2013, 07:24 PM",0.3612
+22,"mall, opening?parkson, anchor, tenant, ...",CMW123,"Nov 17 2013, 07:31 PM",0.0
+23,"price, high, low, occupancy, rate, puteri, palma, putrajaya, .., rm, 500+psf, .., option, investor, consider, .., future, believe, place, .., depend, reason, purchasing, :-)",optimus28,"Nov 17 2013, 11:25 PM",0.0516
+24,"picture, leaflet",TSaccetera,"Nov 17 2013, 11:51 PM",0.0
+25,"do!thank, good, sir",xemse89,"Nov 18 2013, 08:49 AM",0.4926
+26,"sale, office",kamilnu,"Nov 20 2013, 03:23 PM",0.0
+27,"update, project",ESBI_E,"Nov 22 2013, 01:27 PM",0.0
+28,"registration, send, property.marketingirc@ioigroup.com, .as, size, 4, size, approximately, 843, 970, 1,142, 1,388, sq, ft, expect, launch, april, 2014",blackfuzzy,"Nov 23 2013, 04:52 PM",0.0
+29,"puchong, address, putrajaya, .., rm, 650psft, high, area, opinion, leasehold, lagi",optimus28,"Nov 25 2013, 09:04 AM",0.0
+30,"clio, residences, leasehold, confirm",Kvsual,"Nov 25 2013, 02:11 PM",0.0
+31,"puteri, palma, freehold, ..., clio, residence, same?http://www.propwall.my, putrajaya, puteri_palma_1",CMW123,"Dec 2 2013, 02:31 PM",0.1779
+32,"usually, look, advertisement, material, know, fh, becoz, fh, super, big, size, fh, word, bad, image, accetera, capture, entire, layout",maldiniho,"Dec 2 2013, 08:52 PM",0.1027
+33,"dev, putrajaya, address, think, putrajaya, kajang, puchong, sri, kembangan, ciber, ...., middle, location, haaaa, ..., everytime, pass, m, blurrrrrrr",MrHunter,"Dec 4 2013, 07:37 PM",0.0
+34,"technically, mpsj, bit, weird",maldiniho,"Dec 4 2013, 11:30 PM",-0.1779
+35,"friend, bartholomew, voon, fb",TSaccetera,"Dec 5 2013, 12:56 PM",0.4939
+36,register,dcon,"Dec 5 2013, 07:08 PM",0.0
+37,,rongfu,"Dec 16 2013, 09:48 AM",0.0
+38,"structure, wave, like, form, crumple, leaflet",maldiniho,"Dec 17 2013, 04:47 PM",0.3612
+39,"leaflet, crumple, lah, fin, wavery, ..., mean, unit, wavery, closely",TSaccetera,"Feb 5 2014, 11:45 AM",0.0
+40,"nice, ....., eye, catch, high, rise, unlike, uninspire, ytl, capers, fennels, radical, design",maldiniho,"Feb 6 2014, 10:15 AM",0.4215
+41,"leaflet, perfectly, fine, wave, architectural, highlight, curve, parking, floor, address, putrajaya, local, council, majlis, perbandaran, sepang, freehold, way, confirm, registration, e, mail, property.marketingirc@ioigroup.com",blackfuzzy,"Feb 6 2014, 10:43 AM",0.8442
+42,"price, stand",nkhong,"Feb 6 2014, 12:35 PM",0.0
+43,"consider, dwiputra, residence, precint, 15, price, 500, 550, psf, guy, think, choice",Nidz,"Feb 6 2014, 03:27 PM",0.0
+44,"ioi, vs, sp, setiathis, future, big, shopping, mall, golf, course, nearbywhat, dwiputra, attraction",CMW123,"Feb 6 2014, 03:30 PM",0.4588
+45,"dwiputra:-nearby, alamanda, estimate, completion, 2015/2016i, think, property, similar, attraction, need, check, exact, location, development, like, know, road, access, traffic, condition, need, toll, reach, office, precint, 8, golf, course, huge, attraction, personally",Nidz,"Feb 6 2014, 04:12 PM",0.872
+46,"think, clio, ioi, city, mall, development, ya, ....",TSaccetera,"Feb 7 2014, 09:42 AM",0.0
+47,"boss, confirm, notice, open, registration, banner, state, locate, arm, reach, upcoming, ioi, city, mall"", ..., 16, sierra, ioi, piece, land, ...",CMW123,"Feb 7 2014, 09:48 AM",0.0258
+48,"price, projection, place, change, projection",blackfuzzy,"Feb 7 2014, 01:46 PM",0.0
+49,"clio, definitely, ioi, city, mall, thing, street, mall, east, persiaran, utara, site, clio, residences, west, straight, distancewise, mall, clio, half, kilometer",blackfuzzy,"Feb 7 2014, 02:28 PM",0.5574
+50,"depend, road, condition, etc, ..., 500, meter, walk, able, opinion, near, pelangi, utama, 1u, believe",stevenkkt,"Feb 7 2014, 08:22 PM",0.0
+51,"distance, matter, checklist, safe, ...",CMW123,"Feb 7 2014, 10:31 PM",0.4588
+52,"taiko, review, exact, location, ah",nkhong,"Feb 8 2014, 10:28 AM",0.0
+53,"email, sa, register, interest, project, probably, launch, september, year",Nidz,"Feb 9 2014, 03:48 AM",0.4588
+54,"la, think, share, info, help",blackfuzzy,"Feb 9 2014, 10:57 AM",0.5994
+55,thanks,nkhong,"Feb 10 2014, 12:00 PM",0.4404
+56,"area, booming, .., compare, puteri, palma, 5, month, ago, post, low, occupancy, .., occupancy, rate, improve, unit, renovation, .., lot, high, class, expat, live, include, japanese, european, etc, .., ioi, resort, city, place, invest, area, guess, .., mid, valley, development, .., fyi.above, gigantic, mall, high, class, office, 5, star, hotel, construction, ..",optimus28,"Feb 10 2014, 01:17 PM",0.2023
+57,"problem, 9, unit, floor, configuration, 4, lift, serve, floor, .for, interested, small, size, think, register, 1, unit, floor, size, 2, unit, size, floor",blackfuzzy,"Feb 10 2014, 08:45 PM",0.0
+58,"price, small, unit, area, far, cyberjaya, ..., concern, 1, km, away, serdang, hospital",MoonRider,"Feb 11 2014, 09:21 AM",0.0
+59,"apparently, price, unit, finalise, .i, miss, distance, serdang, hospital, concern",blackfuzzy,"Feb 11 2014, 01:02 PM",-0.1531
+60,"probably, people, think, hospital, good, fengshui, perspective, people, die, hospital, lot, spirit, accidental, house, live, nearby, ...",nkhong,"Feb 11 2014, 01:12 PM",-0.1531
+61,"point, view, think, effectively, affect, lot, place, sunway, subang, puchong, putrajaya, ampang, kajang, pretty",blackfuzzy,"Feb 11 2014, 01:33 PM",0.7269
+62,"nah, .., spirit, thing, .., chance, heard, lot, biii, booo, biii, booo, sound, ...",MoonRider,"Feb 11 2014, 01:51 PM",0.3182
+63,"appeared, proximity, doubt, point, probably, thing, bear, mind, future, property, piece, .my, thank",blackfuzzy,"Feb 11 2014, 03:05 PM",0.0
+64,"mistaken, use, silk, highway, kajang, head, putrajaya, putrajaya, exit, thing, left, fence, clear, land",payamam,"Feb 11 2014, 03:48 PM",0.0258
+65,"umm, actually, hoard, area, refer, actual, site, slightly, far, probably, mark, pretty, common, misunderstanding, hear",blackfuzzy,"Feb 11 2014, 03:56 PM",0.1027
+66,"hear, hoard, area, currently, construction, build, shoplot, clio, locate, left, end, build, bridge, direct, mall, parcel, development, master, plan, look, like, develop, currently, complete, condo, mall, retail, space, 80, tenant, office, hotel, upcome, definitely, good, place, consider, investment, look, forward, project",VT7,"Feb 11 2014, 04:42 PM",0.7964
+67,"project, launch, interested, project",12Digit,"Feb 11 2014, 04:58 PM",0.4019
+68,"target, launch, sept-2014, think, official, website, ready, register, email, property.marketingirc@ioigroup.com",vinctan88,"Feb 11 2014, 05:17 PM",0.3612
+69,"passby, site, locate, entrance, putrajaya, ioi, city, dry, dull, place, moment, depend, ioi, city",mingyew,"Feb 11 2014, 07:49 PM",-0.4019
+70,"mall, refer, investment, value, right, buy, mature, township, like, pj, kl, high, psf, price, believe, property, price, increase, substantially, mall, complete, fully, occupy, think, cyberjaya, sell, 600, 700++, psf, hope, launch, mall, completion, pay, premium",VT7,"Feb 11 2014, 08:23 PM",0.8885
+71,"actual, site:2.964794, 101.720101",mingyew,"Feb 12 2014, 12:19 AM",0.0
+72,"yup, place, near, refer, master, plan, location, hoarding, locate, clio, slightly, far, persiaran, utara",vinctan88,"Feb 12 2014, 07:31 AM",0.0
+73,"link, uniten, voila~",mingyew,"Feb 12 2014, 09:26 AM",0.0
+74,"think, ppl, uniten, pay, kind, rental",lamode,"Feb 12 2014, 09:28 AM",0.4588
+75,"tell, sa, fix, price, project, probably, rm500, 600, psf, region, pricing, development, similar, dwiputra, residence, presint, 15, 5, min, away",Nidz,"Feb 12 2014, 10:22 AM",0.0
+76,"agree, refer, puteri, palma, condo, mall, unit, rent, work, expat, cyberjaya, bangi, sepang, rate, rm2,500, /-, basic, furnished, unit, rm3,500, /-, fully, furnish, unit",vinctan88,"Feb 12 2014, 10:27 AM",0.3612
+77,"think, resident, particularly, happy, live, student, people, afford, big, size, family, chance, think, turn, pretty, family, community, majority, unit, actually, big",blackfuzzy,"Feb 12 2014, 02:47 PM",0.8479
+78,"url, link, homepage",MoonRider,"Feb 12 2014, 04:25 PM",0.0
+79,"hopefully, la, ..., tot, dwiputra, launch, long, time, ago, unit, meh, putrajaya, vs, ioi, resort, alamanda, vs., ioi, city, mall, clio, advantage, term, location, attraction, mall, size, environment, long, term, township, development, ..., long, term, rental, investment, la, p, dwiputra, think, stay, understand, sa, ioi, resort, selangor, wor, w.p, putrajaya, right",VT7,"Feb 12 2014, 04:34 PM",0.7506
+80,"clio, website, ready, send, registration, property.marketingirc@ioigroup.com, visitioi, resort, cityioi, properties, groupioi, city, mall",vinctan88,"Feb 12 2014, 05:21 PM",0.3612
+81,"working, expat, mean, non, malaysian, demand, currently, commercial, ioi, resort, city, ...",CMW123,"Feb 12 2014, 06:03 PM",-0.128
+82,"yes, dwiputra, total, 4, block, 2, block, sell, 3rd, block, currently, sale, 4th, block, open, sale, think, dwiputra, stay, clio, investment",Nidz,"Feb 13 2014, 10:16 AM",-0.836
+83,"yup, professional, contract, oil, gas, engineer, pilot, stewardess, lecturer, international, school, ie, alice, smith, nexus, john, hopkins, perdana, university, come, medical, city, expat, budget, rent, budget, opt, place, environment, marriott, hotel, surprisingly, pack, business, traveller, function, conference, commercial, ioi, city, mall, target, open, end, year, shop, lot, currently, planning, previously, mention, hoard, area, construction, shop, lot",vinctan88,"Feb 13 2014, 01:46 PM",0.296
+84,"note, putrajaya, cyberjaya, condo, supply, .., thank, issue, rent, .., probaly, govt, servant, rent, sure, rent, price, expect, uniten, alrady, new, condo, goign, complet, 1, 2, year",MoonRider,"Feb 13 2014, 04:27 PM",0.5859
+85,"true, future, owner, clio, rely, proximity, project, ioi, city, mall, main, attraction, rent, sell, govt, servant, rent, plenty, quarter, cheap, property, putrajaya",Nidz,"Feb 13 2014, 04:32 PM",0.7003
+86,"end, capital, appreciation, fall, demand, depend, things.-, amenity, immediate, neighbour, surroundings-, community, environment, townshipthis, currently, reflect, puteri, palma, community, colourful, unit, occupy, multiple, nationality, japs, koreans, asians, westerners, .there, reason, choose, locate, long, purchaser, rental, fair, possibility, living, expense, probably, cover, employ, organisation, way, new, limitation, minimum, purchase, price, actually, use, advantage",blackfuzzy,"Feb 13 2014, 05:21 PM",0.5994
+87,"u, think, rent, expat, .., think, .., company, work, mat, salleh, majority, hartamas, .., company, pay, rental, .., hartamas, choice, community, international, schooland, mat, salleh, prefer, condo, 1, -2, bedroom, ..., 3, .., access, western, food, restaurant, .., new, ioi, mall, complete, soon, .., limiation, night, life, shop, close, 11, p.m., follow, mall, operating, hour, .., friday, night, clubbing, .., putrajaya, yelek, ..., know, work, lot, mat, salleh, ...",MoonRider,"Feb 14 2014, 01:45 PM",-0.1027
+88,"bro, dun, mind, ask, work, kl, area, reason, want, drive, km, home, work, factor, jam, hor, compare, forteen, km, traffic, free, lo, maybe, choice, find, place, nearby, rent, wat, know, hor, expat, enjoy, healthy, lifestlye, la, know, expat, come, family, 1, bedroom, unit, work, single, limited, budget, student, ...., normally, city, centre, weekend, grocery, avoid, jam, lo, ..., think, expat, limit, mat, saleh, right, hahaha, ..., malaysia, famous, rojak, la, cina, melayu, indian, expat, mat, salleh, kimchi, bibimbap, japanese, india, etc, ma, ..., speak, international, schools, hor, guess, putrajaya",VT7,"Feb 14 2014, 09:32 PM",0.875
+89,"list, educational, institution, rafflesia, international, private, schoolsalice, smith, international, schoolnexus, international, school, putrajayatanah, rata, international, schoolelc, international, school, australian, international, school, malaysiamultimedia, universiti, limkokwing, universityuniversity, putra, malaysia, universiti, tenanga, nasional, cyberjaya, university, college, medical, sciences, segi, college, seri, kembanganroyal, islamic, university, malaysia, johns, hopkins, university, school, medicinesome, fact, cyberjaya, •, employer, cyberjaya, o, hewlett, packard, o, hsbc, bank, o, shell, o, t, systems, o, ibm, ibm, invest, rm1billion, year, build, new, global, delivery, center, cyberjaya, malaysia, bring, 3000, high, quality, knowledge, base, jobso, dhl, o, dell, •, population, o, 53,000, 2013, o, 30,000, knowledge, worker, local, international, professionals, cyberjayao, asia, australasia, europe, america",vinctan88,"Feb 14 2014, 09:43 PM",0.0
+90,"check, man, mat, sallehs, work, actually, drive, 80, km, forth, like, 6, toll, everyday, assumption, work, cyberjaya, nightlife, single, day, refer",blackfuzzy,"Feb 14 2014, 10:34 PM",0.3612
+91,"fact, ioi, city, mallioi, city, mallexpected, operation, –, october, 2014no, outlet, 350, specialty, store, 4, floorsgross, shopping, floor, –, 2.2, million, sq, ftnet, lettable, area, –, 1.4, million, sq, ft)gross, development, cost, rm1.5, millionentertainment:-international, size, ice, skating, rink-13, screens, cinema, -district, 21-bowling, centre, anchor, tenant, parksontescohomeprogscabout, homepro, homepro, house, brand, new, quality, stylish, value, alternative, house, owner, homepro, provide, 10, quality, brand, cover, 1,000, selection, respond, vast, variety, requirement, home, repair, exist, home, house, decorative, new, exist, home",vinctan88,"Feb 17 2014, 11:31 AM",0.34
+92,"work, mnc, cyberjaya, lol, 2006, till, .., .., drive, lah, night, kuai, lo, .., 1, pub, hop, grape, cyerbajay, people, .., kuai, lo, like, stay, community, ..., miss, equine, near, cyberjaya, kuai, lo, community, near, shopping, mall, clio, alamanda, .., check, business, kuai, lo, alamanda?shaftburry, kinda, nice, place, rental, .., cyberjaya, condo, .., oversupplyif, mistaken, use, mex, later, interchange, kerinchi, link, .., come, work, round, 9, 9.30am, traffic, ...",MoonRider,"Feb 17 2014, 12:38 PM",0.5729
+93,"53,000, 2013, increase, 100, 3, years?the, current, daytime, work, population, huge, mnc, like, hp, shell, etc, 2, major, uni, like, mmu, lkw, .., major, news, mega, mnc, huge, uni, campus, come, new, construction, huge, standalone, office, like, shell, ntt, ericsson, hp, hsbc?so, work, opportunity, come, small, shoplot, office, retail, like, glomac, dpulze, etc, intend, increase, population, 50,000",twincharger07,"Feb 17 2014, 12:44 PM",0.9668
+94,"morning, traffic, definitely, traffic, acceptable, evening, home, traffic, teruk, least,1.5, hour, day",CMW123,"Feb 18 2014, 10:51 PM",0.6124
+95,"agree, night, population, low, 20, day, time, population, check, puteri, palma, condos, beverly, row, bungalow, ioi, resort, city, gita, bayu, serdang, tell, sa, visit, south, development, year, rent, east, lake, residence, serdang, perdana.+1, point, post, 92, shop, weekday, prefer, city, centre, weekend, avoid, jam, weekend, crowd, shopping, mall, busier, right, look, ikea, preferred, place, stay, damansara?by, time, clio, complete, ioi, city, mall, celebrate, 3rd, anniversary, bother, alamanda",vinctan88,"Feb 19 2014, 09:52 AM",0.128
+96,"ang, mo, work, time, cyberjaya, travel, way, city, want, stay, cyber, taxi, erl, city, rent, car, monthly, change, future, cyber, happen, maybe, sure, country, expat, like, china, india, yes, willing, stay, cyber, travel, weekend, city, center",nkhong,"Feb 19 2014, 12:33 PM",0.7783
+97,"company, mention, standalone, office, btw, number, source, net, forumer, easy, reference, interesting, news, base, 2010, survey, stratos, consulting, group, sdn, bhd, 180,000, resident, 15-minutes, drive, radius, cyberjaya, project, increase, 310,000, resident, 2014, 2015, tandem, township, economic, growth, completion, number, residential, development, kan, point, cyberjaya, 500, company, multimedia, super, corridor, status, 40, multinational, corporation, work, population, 76,900, people, 65,000, student, “the, mall, project, serve, 450,000, people, end-2015, lot, retail, opportunity, township, serve, ”the, press, release, jan, 2013, like, population, increase, 141,900",vinctan88,"Feb 19 2014, 12:39 PM",0.9666
+98,"press, estimate, figure, know, cyberjaya, live, work, different, story, .., company, mention, exist, standalone, company, contribute, current, 50,000, day, time, population, .., question, 50,000, population, come, build, big, mnc, office, cyberjaya, .., build, small, retail, office, soho, etc, ...",twincharger07,"Feb 19 2014, 02:58 PM",0.0
+99,"brother, u, check",xyyap,"Feb 19 2014, 03:01 PM",0.0
+100,"good, question, main, point, solely, focus, growth, invest, cyberjaya, point, potential, clio, term, rental, investment, potential, growth, cyberjaya, company, work, professional, residential, unit, demand, ioi, resort, city, resort, township, development, neighbouring, cyberjaya, locate, centre, point, puchong, south, seri, kembangan, cyberjaya, putrajaya, upcoming, bangi, sepang, southern, corridor",vinctan88,"Feb 19 2014, 03:17 PM",0.765
+101,"wao, ...., thank, share, information, ...",szenyee,"Feb 19 2014, 03:33 PM",0.5719
+102,"frankly, speak, lot, major, developer, build, putrajaya, cyberjaya, currently, believe, surely, discussion, study, step, unique, territory, main, concern, long, ioi, draw, crowd, operate, mall, mall, play, important, value, appreciation, area, interested, property, investment, wish, price, budget, lol, ..",szenyee,"Feb 22 2014, 07:39 PM",0.9584
+103,"dwiputra, clio, far, clio, separate, road, mall, walk-able.the, distance, clio, new, mall, distance, dwiputra, alamanda",faizalmzain,"Feb 23 2014, 12:09 AM",0.0
+104,"yes, cross, 4, 6, lane, street, new, mall, walk, flyover",faizalmzain,"Feb 23 2014, 11:14 PM",0.4019
+105,"study, uniten, student, rent, condo, especially, rich, kids.but, 10, year",faizalmzain,"Feb 23 2014, 11:27 PM",0.5984
+106,"kuai, lo, mat, salleh?i, usually, alamanda, weekend, yes, mat, salleh, old, mat, salleh, lah, sure, live, course, kl, mall, like, klcc, pavilion",faizalmzain,"Feb 25 2014, 12:51 AM",0.7579
+107,"plan, year, end, wor",lamode,"Feb 26 2014, 02:10 PM",0.0
+108,"ioi, city, mall, putrajayasource, https://www.facebook.com/ioiresortcity",TSaccetera,"Feb 26 2014, 06:09 PM",0.0
+109,"time, progress, good",xyyap,"Feb 26 2014, 06:52 PM",0.6908
+110,"big, mall, wow, retailer, compete, finish, visit, current",enkil,"Feb 26 2014, 06:52 PM",0.5859
+111,"wait, ice, skating, rink",lamode,"Feb 27 2014, 02:39 PM",0.0
+112,"actual, site, ..., hoard, upvery, far, mall, ..., attraction, point, drop",CMW123,"Mar 28 2014, 11:29 AM",0.2263
+113,"try, convey, early, location, drive, car, consider, nearby",TSaccetera,"Mar 30 2014, 11:21 AM",0.0
+114,"walk, distance, think, sell, unit, dirt, cheap, time, shopping, mall, mature, condo, sell, rm1000, psf, lor.quote, accetera, feb, 26, 2014, 06:09, pm]i, try, convey, early, location, drive, car, consider, nearby[/quote",Soros007,"Mar 30 2014, 12:06 PM",0.1027
+115,"walk, distance, think, sell, unit, dirt, cheap, time, shopping, mall, mature, condo, sell, rm1000, psf, lor.quote, accetera, feb, 26, 2014, 06:09, pm]i, try, convey, early, location, drive, car, consider, nearby[/quote",Soros007,"Mar 30 2014, 12:52 PM",0.1027
+116,"ask, sale, person, clio, residence, furth, service, apartment, condo.the, advertisement, fence, currently, road, putrajaya, exact, clio, residence, actual, inside, near, hospital, serdang, side.in, future, condo, tower, service, apartment, clio, residence, tell, mefuture, plane, serviced, apartment, palm, garden, hotel, near, ioi, city, mallsecond, puteri, plama, condominiumthird, block, condo, opposite, palm, garden, club, house, slightly, near, high, tension, electrical, cable.last, clio, residence, mention, change, sale, person, tell, cause, ioi, city, mall, surrounding, alot, new, project, ioi, come",leelee1988,"Mar 30 2014, 04:47 PM",-0.6041
+117,"insist, walk, mall, mall, everyday, 500, m, away, mall, carry, grocery, walk, way, home, bad, malaysian, style, push, trolley, way, home, compare, service, apartment, build, mall, like, empire, subang, etc, difference, doubt, plan, bulid, maybe, like, soros, rm1000, sf, clio, locate, opposite, parcel, development, putrajaya, gate1, highway, puteri, palma, condo, mall, road, 18, hole, golf, course, figure, difference, walk, distance, tip, allow, cross, fencing, walk, course, bridge, tunnel, site, construction, mixed, development, shop, lot, service, apartment, clio, adjacent, example, puchong, resident, work, people, think, patrol, shop, lot, puchong, jaya, bandar, puteri, prefer, ioi, mall, daily, basis, clio, upcoming, palm, garden, hotel?forget, distance, look, product, want, small, size, unit, affordable, purchase, clio, offer, 850sf, unit, rm600, sf, average, count, rm500k, onwards, compare, future, mistake, range, 1,000, sf, definitely, high, price, rm700, totally, different, entry, level, product, ioi, resort, city, good, product, depend, individual, buying, purpose, investment, personally, prefer, clio, size, low, entry, price, high, growth, potential, development, currently, construction, consider, buy, stay, want, low, density, privacy, resort, live, experience, like, puteri, palma, condo, miss, boat, mind, wait, future, development, surround, despite, high, price, big, build, suitable, stay",VT7,"Mar 30 2014, 07:48 PM",0.6124
+118,"sneak, peek, upcoming, development, clio, residences, ioi, resort, city, locate, arm, reach, upcoming, ioi, city, mall, excellent, accessibility, skve, link, nse, ldp, silk, mex, highway, expect, launching, 3q, 2014, register, email, property.marketingirc@ioigroup.com, +603, 8947, 8899, enquiry, clio, ioiresortcity, putrajaya, ioi, properties, fb, page",vinctan88,"Mar 30 2014, 08:02 PM",0.5859
+119,"mall, open",rongfu,"Mar 31 2014, 12:20 AM",0.0
+120,"good, info, thank",tmdsad,"Mar 31 2014, 12:47 AM",0.6597
+121,"2014, time, clio, vp, mall, mature, alredi",CMW123,"Mar 31 2014, 09:26 AM",0.4215
+122,"grand, opening, target, end-2014, currently, 80, tenantedthe, hotel, office, attach, start, operation, maybe, second, phase, mall, half, way, completion, complete",vinctan88,"Mar 31 2014, 04:20 PM",0.4588
+123,"second, phase?what, lettable, sf, 1st, phase, n, 2nd, phase",CMW123,"Mar 31 2014, 04:28 PM",0.0
+124,"ioi, big, land, sure, developer, build, good, clio, set, standard, ioi, land",tikaram,"Apr 1 2014, 01:59 PM",0.6369
+125,"wait, grand, opening, shopping, mall, careful, aes, camera",babygrand123,"Apr 1 2014, 02:05 PM",0.5574
+126,"600, psf, kind, expensive, town, ah",nkhong,"Apr 2 2014, 01:05 AM",0.5267
+127,"wait, new, mall, open, near, kajang, =d",Kvsual,"Apr 2 2014, 01:18 AM",0.5106
+128,"near, putrajaya, cyberjaya, bangi, sepang, puchong, south",VT7,"Apr 2 2014, 09:39 AM",0.0
+129,"lol, near, puchong, geh, 20min",Kvsual,"Apr 2 2014, 09:51 AM",0.4215
+130,"ioi, properties, showcase, ioi, mall, case, township, klang, valley, hope, info, reveal, clio, residenceson, project, puchong, skypod, square, puteri, hills, parc, ville, skyz, residence, 16, sierra, sierra, centro, 1, open, registration, akira, semi, d, la, thea, residencesioi, resort, clio, residences, klang, terrace, house, semi, d, shop, office, 2, storey, shop, officebangi, terrace, house, shop, lot, service, apartment, open, registrationsepang, terrace, house, open, registration""our, annual, showcase, year, happen, april, miss, great, promotion, deal, information, upcoming, project, come, visit, ioi, mall, showcase, property, prime, location, look, good, deal, enjoy, 24, month, 0, interest, credit, card, installment, property, purchase, visit, www.ioiproperties.com.my/showcase, stay, tune, information, ioipshowcase, ioimall, puchong, ioipropertie, https://www.facebook.com/ioiproperties",vinctan88,"Apr 3 2014, 10:24 AM",0.9524
+131,"look, like, upcoming, mall, outshine, mall, area, include, planning, cyberjaya",CMW123,"Apr 3 2014, 03:49 PM",0.3612
+132,"agree, talk, town, kajang",tikaram,"Apr 10 2014, 12:15 PM",0.3612
+133,"recent, condo, ioi, stupid, skypod, seriously, look, sibeh, good",HELLO HELLO,"Apr 10 2014, 01:02 PM",-0.296
+134,"wrong, skypod",CMW123,"Apr 12 2014, 08:55 AM",-0.4767
+135,"people, think, design, conventional, non, attractive, sell, like, hot, cake",puchongite,"Apr 12 2014, 11:21 AM",0.6597
+136,"puchong, 3, hot, spot, klang, valley",vinctan88,"Apr 12 2014, 03:47 PM",0.0
+137,"skypod, sibeh, lousy, look, skypod, new, 1, include, 1, look, bad.but, ioi, developer, boh, impressive, condo, project, complete, know, sibeh, rich",HELLO HELLO,"Apr 12 2014, 06:42 PM",0.5267
+138,"sibeh, lousy, fully, sell, year, sa, tell, 2, unit, 1, bedroom, size, leave, ioi, property, buyer, buy, value, township, developer, like, puchong, mature, price, demand, rise, location, price, size, dev, reputation, design, cashflow, king, confident, buyers.speaking, design, recent, project, seriously, impressive, especially, jb, singapore, like, seascape, south, beach, recent, puteri, hill, pfcc, puchong, ioi, city, mall, afford",VT7,"Apr 14 2014, 02:27 PM",0.8689
+139,"spot, 3puchong, east, puchong, south, puchong, west",CMW123,"Apr 14 2014, 03:06 PM",0.0
+140,"puchong, east, puchong, south, puchong, west, 5, puchong, east, west, south, north, central",puchongite,"Apr 14 2014, 03:20 PM",0.0
+141,"spot, 3pj, puchong, ara, damansara",vinctan88,"Apr 14 2014, 03:24 PM",0.0
+142,"pj, puchong, ara, damansarasyoik, sendiri, type, classification, sirim, approve",puchongite,"Apr 14 2014, 10:04 PM",0.0
+143,"pj, doubt, 3, strategic, working, place",TSaccetera,"Apr 22 2014, 10:14 PM",-0.3612
+144,"ic, ic, mean, mk, desa, park, d'sara, height, bangsar, hot, spot, hot, ..., wangsa, maju, cheras, cyberjaya, hot, spot, refer, 3, ..., hottest, ...",vinctan88,"Apr 22 2014, 10:44 PM",0.0
+145,"hot, ..., wangsa, maju, cheras, cyberjaya, hot, spot, refer, 3, ..., hottest, ..., 3, basis",puchongite,"Apr 22 2014, 10:48 PM",0.0
+146,"3, basis, haiyo, .., y, ask, post, survey, report, iproperty, share, info, answer, puchong, property, sell, like, hot, cake, @@",vinctan88,"Apr 23 2014, 09:48 AM",0.5719
+147,"haiyo, .., y, ask, post, survey, report, iproperty, share, info, answer, puchong, property, sell, like, hot, cake, @@since, mention, survey, iprop",puchongite,"Apr 23 2014, 02:20 PM",0.5719
+148,"puchong, people, priority, buy, puchong, understanding, vital, ptlm, talk, ioi, properties, showcase, ioi, mall, puchong, saturday, 2pm",TSaccetera,"Apr 23 2014, 09:14 PM",0.296
+149,"clio, joint, venture, project, taiwanese, developer",sunrisecollector,"Apr 23 2014, 09:20 PM",0.0
+150,"clio, joint, venture, project, taiwanese, developer?eith, china, taiwan, ..., start, d, mistaken",TSaccetera,"Apr 23 2014, 10:01 PM",-0.3612
+151,"taiwan, ioi, property, taiwanese, serve, tell, mention, track, record, taipei, 101, blah, blah, blah",eco_supporter,"Apr 23 2014, 10:47 PM",-0.296
+152,"taiwan, ioi, property, taiwanese, serve, tell, mention, track, record, taipei, 101, blah, blah, blah.cool, hear",TSaccetera,"Apr 24 2014, 11:25 AM",-0.2023
+153,"company, dacin, construction, co., ltd, 3, construction, company, taiwan, involve, taipei, 101, know, proud, project, taiwan, pavilion, shanghai, expo, 2010, complete, 199, day, project, taiwan, wen, hua, yuan, list, world, 10, luxurious, home, sotheby, international, realty, year, 2013",vinctan88,"Apr 25 2014, 05:56 PM",0.4767
+154,"base, ioi, property, showcase, sa, tell, project, launch, july, september, price, range, 500k, 800k, 850sqft, 1300sqft, think, good, buy, guy, think",Nidz,"May 2 2014, 11:59 AM",0.4404
+155,"company, dacin, construction, co., ltd, 3, construction, company, taiwan, involve, taipei, 101, know, proud, project, taiwan, pavilion, shanghai, expo, 2010, complete, 199, day, project, taiwan, wen, hua, yuan, list, world, 10, luxurious, home, sotheby, international, realty, year, 2013.any, idea, objective, ioi, jv, taiwanese",CMW123,"May 2 2014, 12:13 PM",0.4767
+156,"idea, objective, ioi, jv, taiwanese?沾光沾光嘛，maybe, time, sell, taiwanese, mainlander",puchongite,"May 2 2014, 02:23 PM",0.0
+157,"沾光沾光嘛，maybe, time, sell, taiwanese, mainlanders.as, mm2h, near, golf, course, hospital, n, mall",CMW123,"May 3 2014, 12:05 PM",0.0
+158,"ioi, pay, taiwan, contrator, rush, mall, open, year, dec, 2014,,no, jv",rongfu,"May 6 2014, 11:09 PM",-0.1027
+159,"hear, unit, face, golf",eco_supporter,"May 8 2014, 05:15 PM",0.0
+160,"actually, believe, cmw, refer, clio, residence, jv, mall",blackfuzzy,"May 8 2014, 05:20 PM",0.0
+161,"mall, foreign, party, involve, contractor, famous, local, boy, al, ambia, hab",TSaccetera,"May 12 2014, 04:44 PM",0.4019
+162,"nice, area, lot, green, ..., doubt, peaceful, mall, open",sunrisecollector,"May 13 2014, 01:12 AM",0.5423
+163,"site, condo, directly, affect, traffic, mall, locate, roughly, 1, km, mall, direct, access, highway, ioi, resort, city, yes, traffic, puteri, palma, marriot, palm, garden, hotel, slightly, affect, direct, access, road, mall, condo, area, opposite, highway, access",Nidz,"May 14 2014, 04:43 PM",0.4019
+164,"mrt, stop, here?i, know, uni, tnb, station, .., phase, 2, ...",CharmaineLee80,"May 14 2014, 05:11 PM",-0.296
+165,"nope, refer, dacin, construction, ioi, jv, partner, project",Nidz,"May 14 2014, 05:22 PM",0.0
+166,"good, price",MNet,"May 14 2014, 10:08 PM",0.4404
+167,"heard, clio, service, residence, high, maintenance, fee, psf, commercial, rate, electricity, water, set",Ampelfrau,"May 14 2014, 10:52 PM",0.0
+168,"yep, u, rightas, sale, pitch, convert, residential, ask, eta, tell",MNet,"May 16 2014, 12:31 PM",0.296
+169,"nidz, near, place, liao, haha, presint, 14, putrajaya",spikyz,"May 21 2014, 09:51 AM",0.4588
+170,"update, psf, price",Stephanie_x,"May 21 2014, 10:16 AM",0.0
+171,"cheap, 600psf, onli, ....",nkhong,"May 21 2014, 01:35 PM",0.0
+172,"pay, rm7000, vip, style, booking, .if, mind, book, mind, rm7000, telan, bulat, bulat, ioi",puchongite,"May 21 2014, 02:58 PM",0.4404
+173,"psf, u, expect, n",CMW123,"May 21 2014, 06:26 PM",0.0
+174,"http://www.iproperty.com.my/propertylistin...ominium-forsaleputeri, palma, ask, 700psf, new, condominium, 800, psf",nkhong,"May 21 2014, 08:06 PM",0.0
+175,"lol, picture, unit, 1400, 1500, sq, ft, 550, 600psf, fully, furnish, believe, agent, post, tennis, court, squash, court, wat, kind, business, centre, unit, definitely, corner, lot, @@, bad, gold, club, life, membership",VT7,"May 21 2014, 10:34 PM",0.6597
+176,"know, sale, package, project, offer?such, ...., spa, fee, legal, fee, mot, .., etcany, discount/, rebate, offer?any, news, abt, booking, fee?most, important, ...., launch, date",Stephanie_x,"May 22 2014, 01:51 AM",0.4291
+177,"refer, ioi, exist, project, previous, launch, normally, developer, cover, spa, legal, fee, use, appoint, lawyer, easy, payment, scheme, maybe, 10, payment, differential, sum, loan, 90, book, fee, normally, 8, 10k, la, thea, 16, sierra, reference, buy, property, voucher, enjoy, additional, discount, 6k, choose, unit, registrant, voucherstargete, launch, july, aug, year",vinctan88,"May 22 2014, 01:54 AM",0.765
+178,"cheap, unit, friend, consider, place, stay, kindly, advise, location, location, location, suitable, stay",jepakazoid_82,"May 22 2014, 03:38 PM",0.7506
+179,"indicative, price, rm600, sf, available, size, 872, 1,012, 1,151, 1,410, sf, stay, big, size, suitable, ie, 1,151, sf, rm700k, /-, depend, floor, level, send, enquiry, property.marketingirc@ioigroup.com, fb, page, ioi, properties, berhad, send, detailed, plan",vinctan88,"May 22 2014, 03:47 PM",0.0
+180,"thank, bro, info, wonder, rm, 600, psf, discount",jepakazoid_82,"May 22 2014, 03:50 PM",0.3612
+181,"872sf, rm600, sf, ~rm523200.any, discount, easy, payment, 0, installment, payment",CharmaineLee80,"May 22 2014, 03:51 PM",0.4404
+182,"got, news, letter, ioi, puteri, palma, penthouse, sale, rm, 452, persquare, foot, promotion, discount, 3, valid, till, end, month, interestedwe, share, referer, fee..http://sendgrid.com/wf/webmail?rp=zti1bgqz...urree5qutroveo5",leelee1988,"May 22 2014, 03:53 PM",0.296
+183,"1.1mil, exp, kind, design",MNet,"May 22 2014, 08:41 PM",0.5267
+184,"location, location, location, normally, use, investment, decision, stay, good, place, stay, accord, needs.i, personally, prefer, project, nearby, workplace, parent, house, near, shopping, mall, cinema, kaki, good, advantage",Nidz,"May 22 2014, 09:01 PM",0.7783
+185,"hello, .., know, easy, payment, 10, work",Stephanie_x,"May 22 2014, 09:37 PM",0.4404
+186,"hmm, ...., nidz, opinion, clip, location, location, location, wise, choice, investment",Stephanie_x,"May 23 2014, 11:20 AM",0.4767
+187,"indicative, price, mid, floor, unit, subject, build, area, generally, big, build, area, lower, psf, .the, promotion, payment, package, finalize, normally, inform, close, launch, day, 1, week, before?if, refer, ioi, exist, project, easy, payment, scheme, allow, defer, payment, ie, 10, differential, sum, 18, month, instead, pay, 10, sign, spa, ioi, adopt, scheme, clio, unknowni, buy, township, development, ioi, city, mall, offices, hotel, high, end, bungalow, retail, outlet, township, golf, course, etc, term, south, klang, valley, center, point, kajang, bangi, sepang, puchong, south, serdang, seri, kembangan, dengkil, cyberjaya, putrajaya",vinctan88,"May 24 2014, 03:02 AM",0.1779
+188,"use, strategy, buy, property, currently, stay, regret, decision, public, transport, good, hospital, night, life, learn, lesson, hard, way",jepakazoid_82,"May 24 2014, 07:04 AM",-0.0772
+189,"u, mind, share, location",Stephanie_x,"May 24 2014, 08:49 AM",0.296
+190,"thanks, @vintan88, .., wish, rebate, freebie",Stephanie_x,"May 24 2014, 12:39 PM",0.8126
+191,"tell, location, cup, coffee",jepakazoid_82,"May 24 2014, 12:41 PM",0.0
+192,"plan, buy, project, stay, know, wise, decision, investment, observation, let, decide, stay, place, project, finally, finish, think, trouble, sell, unit, rent, point, are:1, time, project, complete, shopping, mall, swing, current, trend, property, near, shopping, mall, familiar, project, locate, mall, huge, big, gsc, cinema, bowl, alley, ice, skating, rink, ..., aside, office, tower, plan, second, phase, mall, total, mall, size, 2.2, million, sqft, net, lettable, area, comparison, mid, valley, 1.7, mil, pavillion, 1.4, mil, .2, project, new, residential, project, township, exist, puteri, palma, sell, currently, fetch, good, rental, rate, rm2k, rm3k, buyer, project, advantage, mover, township, provide, thing, stay, property, bubble, burst, developer, increase, selling, price, phase, development, township, mover, cost, advantage, units.3, traffic, wise, think, major, problem, mall, swing, reason, ioi, plan, traffic, route, township, carefully, area, hq, tan, sri, live, diamond, hill, current, analysis, choose, project, stay, investment, wise, know, future, currently, sign, good, course, analysis, need, 2, cent",Nidz,"May 24 2014, 12:46 PM",0.9595
+193,"malaysia, olympic, sized, ice, skating, rink, locate, ioi, city, mall",TSaccetera,"May 24 2014, 01:33 PM",0.0
+194,"sunway, pyramid, equivalent, olympic, sized",CMW123,"May 24 2014, 02:53 PM",0.0
+195,"sunway, pyramid, ice, skating, rinkolympic, size, ice, skating, rinkyour, imagination",vinctan88,"May 24 2014, 05:53 PM",0.0
+196,"haha, .., maybe, pyramid, slightly, small",enkil,"May 24 2014, 06:28 PM",0.4588
+197,"hi, taiko, u, work, near, place, idea, target, tenant, wanna, rent, idea, puteri, palma, current, tenant, easily, rent",nkhong,"May 24 2014, 07:35 PM",0.34
+198,"visit, puteri, palma, vacant, unit, n, carpark, vacant, baysthere, koreans, stay, toothe, new, mall, bring, peopleioi, advertise, star, yesterday, sell, unsold, penthouse",CMW123,"May 24 2014, 07:48 PM",0.0
+199,"vacant, unit, unsold, sell",puchongite,"May 24 2014, 10:14 PM",0.0
+200,sell,CMW123,"May 24 2014, 10:29 PM",0.0
+201,"rental, rate",jepakazoid_82,"May 24 2014, 11:50 PM",0.0
+202,"hardly, find, listing, iproperty, like, sub, sale, transaction, pretty, inactive",CMW123,"May 30 2014, 03:08 PM",0.6908
+203,"disagree, that.i, look, 1, 1, year, ago, price, 530k, 1200, sqft, mistaken, old, phase, like, rental, good, cover, installment, 1, willing, let, wait, appreciation, mall",CaptainCool,"May 30 2014, 03:51 PM",0.5574
+204,"sell, mean, inactive, sub, sale, meh, ...., price, decent, family, size, unit, fetch, rm2xxx, rental, cover, installment, reasonable, u, notice, place, quiet, n, vacant, unit, old, phase, ..., good, rental, yield, unit, able, rent, unit, tenant, unlikely, owner, bother, rent, outbelieve, price, higher, view, mall, opening, especially, low, density, project, surround, golf, course",CMW123,"May 30 2014, 03:54 PM",-0.2944
+205,"honestly, idea, target, tenant, buy, stay, consider, factor, decision, think, property, attract, lot, tenant, township, mature, maybe, 5, 10, year, different, situation, altogether",Nidz,"May 30 2014, 09:15 PM",0.8074
+206,"buy, ownstay, easy, affordable, budget, like, location, property, buybuybuy, buy, investment, rent, 1, year, installment, plus, maintenance, fee, siong",nkhong,"May 31 2014, 02:02 AM",0.6597
+207,"time, want, buy, agent, tell, rental, target, university, hospital, nearby, woh, true, know, end, buy.a, bit, regret, actually.hahaha",CaptainCool,"May 31 2014, 11:51 AM",0.0772
+208,"finally, find, agent, tell, truth, ...",rachel_xxx,"May 31 2014, 12:00 PM",0.3182
+209,"unit, rent, 3, year, .., far, problem, look, tenant, .., 1st, year, rent, lim, kok, weng, middle, east, rm, 3300monthly2nd, kind, desperate, rent, african, rm2800, pay, year, advance3th, indian, expactrade, work, cyberjaya, rm, 3000, monthlytarget, mainly, expactrade, cyberjaya, uni, student, limkokweng, .., u, desperate, africant, ur, resort, ...., rent, anytime, .., opinion, main, reason, unit, owner, kaya, kaya, dato, datin, wait, mall, ready, sell, .., intend, rent, choosy, tenant, know, .., haha2nd, owner, like, rent, student, middle, eastern, people.3th, owner, look, rental, like, rm, 5k, 6k, money, d, renovation, reality, people, affort, rental, investment, purpose, renovate, untill, luxury, .., expactrade, cyberjaya, thier, company, rm, 3k, house, rental, 3k, rental, hard, look, tenant, opinion, maybe, wrong, .., chill, ..., haha",leelee1988,"Jun 1 2014, 12:50 AM",0.4019
+210,"thank, good, info, rental, look, attractive, furnish, u, provide",CMW123,"Jun 1 2014, 11:17 AM",0.8074
+211,"consider, lucky, .., basic, fan, light, furnish, basiclly, unit, rent, .., furnishing, inside, leave, middle, eastern, student, rent, fully, furnish, unit, .., haha",leelee1988,"Jun 1 2014, 10:02 PM",0.7845
+212,"puteri, palma, condo, owner, buying, stay, retirement, currently, mall, commercial, area, ready, massive, construction, reason, occupancy, rate, low, stay, left, unit, vacant, hassle, rent, manage, tenant, vacation, use, kinda, like, weekend, getaway, kl, city, reason, phase, 3, unit, build, sell, 2, year, ago, number, unit, sell, complete, transaction, renovation, end, year, early, year, vacancy, obviously, increase, owner, good, mixed, local, chinese, retire, expatriate, korea, japan, vietnam, china, singapore, western, country, etc, rental, wise, target, market, expat, work, cyberjaya, mncs, ie, dell, at&t, shell, hp, pilot, stewardess, air, asia, mas, korean, airlines, lecturers, international, school, ie, alice, smith, nexus, john, hopkins, overseas, student, come, study, international, school, guardian, parent, employee, serdang, sepang, bangi, industrial, area, rental, rate, 1,400, sq, ft, unit, fetch, rm2,300-rm2,500, basic, furnished, unit, light, fitting, fan, air, con, kitchen, cabinet, curtain, wardrobe, unit, initially, come, air, con, kitchen, cabinet, water, heater, shower, screen, fully, furnish, unit, rental, rm2,800-rm3,300, depend, type, furnish, provide, big, unit, rent, rm4,000, unit, interior, design, ask, rm5000, 6000, month, average, return, look, 4, basic, furnished, 6, fully, furnish, unit, subsale, current, transact, price, rm550, 600, sf, demand, supply, huge, potential, appreciation, lot, owner, willing, sell, unit, sell, recently, expat, previously, business, purpose, malaysia, rental, expect, clio, residence, likely, unit, furnish, air, con, kitchen, cabinet, water, heater, maybe, shower, screen, case, furnish, cost, prepare, unit, rent, minimum, rm10k, basic, furnished, unit, build, wardrobe",vinctan88,"Jun 3 2014, 09:55 PM",0.9486
+213,"vinct88, car, park, provide, clio, residence",Stephanie_x,"Jun 6 2014, 02:09 AM",0.0
+214,"base, sa, explaination, unit, come, 2, car, park",Nidz,"Jun 22 2014, 05:17 PM",0.0
+215,"thanks, nidzso, .., expect, 2, car, park, free, air, conditional, free, kitchen, cabinet, free, water, heater, free, shower, screen, 😆",Stephanie_x,"Jun 22 2014, 06:08 PM",0.9442
+216,"remember, mention, build, bridge, link, ioi, city, mall, confirm, check, opposite, highway, basically, walkable, mall, ...",happyice,"Jun 22 2014, 06:14 PM",0.0
+217,"yes, build, speak, pedestrian, bridge, walking, distance, far, think, mall, 1, 2, km, condo, ioi, city, mall, flyover, putrajaya, main, road, connect, condo, flyover, complete, time, mall, open, soon",Nidz,"Jul 21 2014, 01:35 PM",0.4019
+218,"view, puteri, palma, condo",vinctan88,"Jul 21 2014, 01:46 PM",0.0
+219,"panorama, shoot",vinctan88,"Jul 21 2014, 01:59 PM",-0.34
+220,"awesome, shot",TSaccetera,"Jul 21 2014, 02:02 PM",0.6249
+221,"price, sft",optimus28,"Jul 21 2014, 02:22 PM",0.0
+222,"indicative, price, rm600, psf, wait, till, launch, exact, pricing",Nidz,"Jul 21 2014, 02:29 PM",0.0
+223,"expensive, ...",optimus28,"Jul 21 2014, 02:36 PM",0.0
+224,"live, resort, bro, sure, address, use, use, similar, hq, look, great, ..., ioi, resort, city, 62502, putrajaya, ..., cyberjaya, service, apartment, sell, rm650, psf",mes23,"Jul 21 2014, 02:39 PM",0.7506
+225,"update, launch, date",Stephanie_x,"Jul 21 2014, 05:36 PM",0.0
+226,aug-14,CMW123,"Jul 21 2014, 10:31 PM",0.0
+227,"wow, pricey",enkil,"Jul 22 2014, 06:01 PM",0.5859
+228,"finally, launch, project, week, 2nd, august, vip, booking, buy, voucher, 31st, july, price, start, 550k, upwards, roughly, rm600, psf",Nidz,"Jul 22 2014, 06:47 PM",0.5106
+229,"market, sentiment, bbb??biggest, mall, putrajaya, area!btw, list, tenant, shopping, mall?hopefully, boring, f&b, tenant",Babizz,"Jul 30 2014, 05:03 PM",-0.4822
+230,"tesco, hypermarketthailand, home, improvement, brand, homeproaeon, index, live, mall, -will, open, location, parksongolden, screen, cinemas, starworld, hotelolympic, ice, skate, rink70,000, sq, ft, adventure, park, district, 121’and, 80, restaurant, cafe",swisspalm,"Jul 30 2014, 05:38 PM",0.6486
+231,"good, putrajaya, land, expensive, .., duno, kinda, human, wanna, stay, .., btr, buy, condo, =)",Babizz,"Jul 30 2014, 08:38 PM",0.7269
+232,"beg, differ, 2, storey, terrace, house, putrajaya, rm600k, 2000sqft, size, roughly, rm300, psf, consider, expensive",Nidz,"Jul 30 2014, 10:00 PM",0.0
+233,"ah, new, launch, expensive!just, propwall, .., condo, bbb, lorr",Babizz,"Jul 30 2014, 10:10 PM",0.0
+234,"depend, condo, bbb, coz, wanna, stay",Nidz,"Aug 3 2014, 12:18 AM",0.0
+235,"s, good, ownstay, .., condo, unit, occupy, vp",Babizz,"Aug 3 2014, 08:09 AM",0.4404
+236,"le, meridien, hotel, brand, starwood, hotels, resorts",TSaccetera,"Aug 3 2014, 11:50 PM",0.0
+237,"wah, .., like, tat, follow, u, buy, ..., cos, bbb, ...., ..., ur, target",bigman,"Aug 4 2014, 08:03 AM",0.3612
+238,"time, afford, property, purchase, wait, disposable, income",Nidz,"Aug 4 2014, 04:38 PM",0.0
+239,"internal, staff, book, pass, week, mistaken, ..., anybody, know, response",CKH1988,"Aug 4 2014, 05:01 PM",-0.3612
+240,"rental, u, guy, think, clio, fetch?while, puteri, palma, 1600sf, rental, roughly, rm2.5k, now.means, clio, 800sf, 1.5, 2k",CKH1988,"Aug 4 2014, 05:20 PM",0.0
+241,"market, demand, supply, distort, capitalism, malaysian, property, market, 5, 6, year, use, 6, 7, rental, yield, slow, steady, capital, appreciation, market, crazy, 30, appreciation, year, sound, right, rich, quick, scheme, host, factor, cause, distortion",MNet,"Aug 4 2014, 10:21 PM",0.7184
+242,"sale, office",kamilnu,"Aug 5 2014, 08:47 AM",0.0
+243,"hear, launch, postpone, insight",eco_supporter,"Aug 11 2014, 01:27 PM",-0.2263
+244,"bcos, skyz, residence, good, response, market, shy, launch, new, project",bigman,"Aug 12 2014, 07:23 PM",0.2263
+245,"locate, ioi, resort, putrajaya, office, block, marriott, hotelthe, postpone, launch, mid, end, august, raya, holiday, week, buyer, complain, 31st, july, book, event, ..",Nidz,"Aug 12 2014, 11:19 PM",-0.5574
+246,"big, big, mall, opening, soon, example, empire, damansara, attract, traffic, population, exist, shopping, centre, market, currently",Ace Ranger,"Aug 12 2014, 11:48 PM",0.3612
+247,"condo, putrajaya, ioi, mall, invest, 500psf",CloudAtla$,"Aug 12 2014, 11:54 PM",0.0
+248,"emm, clio, lauche, 600psf, facebook, page",Ace Ranger,"Aug 12 2014, 11:59 PM",0.0
+249,"mall, failure, gona, come, soon, developer, better, prepare, small, plan, mall, faili'm, sure, ioi, city, mall, succeed, great, potential, putrajaya, cyberjaya, thousand, new, condo, new, exist, college, office, area",Babizz,"Aug 13 2014, 12:02 AM",0.8481
+250,"ioi, city, mall, promising, mall, open, 2014",CMW123,"Aug 13 2014, 09:00 AM",0.4019
+251,"10th, nov, grand, opening, ioi, resort, city, mall, like",Soros007,"Aug 13 2014, 09:20 AM",0.6705
+252,"clio, walk, mall",propertybbb,"Aug 13 2014, 03:24 PM",0.0
+253,"eu, colleague, yes, love, walk, long, distance, hot, sun, drive, min",ftan,"Aug 13 2014, 04:03 PM",0.7845
+254,"news, launch, date",peyter,"Aug 13 2014, 04:23 PM",0.0
+255,"set, launch, friday, 15th, august",Nidz,"Aug 13 2014, 04:35 PM",0.0
+256,"yes, icerink, new, anchor, tenant, malaysian, market, like, homepro, mall, trump, quill, good, mall, 2014.duno, empire, damansara, government, stop, issue, license, build, mall",Babizz,"Aug 13 2014, 06:31 PM",0.7096
+257,"mall, create, opportunity, meantime, create, competition",rainman19,"Aug 15 2014, 12:25 AM",0.7184
+258,"look, good, =), 600, ish, psf, know, percent, discount",Babizz,"Aug 15 2014, 02:06 AM",0.4404
+259,"5, cash",Nidz,"Aug 15 2014, 09:17 AM",0.0
+260,"maybe, discount, launch, ballot, product, look, good, amenity, price, think, hard, find, tenant, like, live, near, mall",Babizz,"Aug 15 2014, 11:50 AM",0.6124
+261,"know, discount, check, today, report",Nidz,"Aug 15 2014, 12:05 PM",0.0
+262,invitation,d.storey,"Aug 15 2014, 12:11 PM",0.0
+263,"872, sqft, 580, k, rm665, psf, cheap, .., rm600, psf, reasonable, ..",seanooi880327,"Aug 15 2014, 01:42 PM",0.0
+264,"wah, walk, distance, ioi, phase, 2, mall, know, phase, 2, mall, ready?ya, internal, staff, sapu, cheap, unit, big, unit, pricey, friday, onwards, open, public, registrant",ftan,"Aug 15 2014, 01:43 PM",0.0
+265,"phase, 2, mall, start, construction, mid, year, connexion, launch, mid, year, accord, sa, earthwork, piling, start, connexion, mixed, development, comprise, 4, storey, retail, outlet, high, density, residential, tower, small, size, compare, clio, iinm, size, 750, sqft, 950, sqft, 1200, sqft, pricing, determine",Nidz,"Aug 15 2014, 01:45 PM",0.0
+266,"information, connexion, thread, https://forum.lowyat.net, topic/3183737",TSaccetera,"Aug 15 2014, 03:40 PM",0.0
+267,"infos, clio:1-, book, fee, rm8,000, 2-, free, spa, legal, fee, 3-, 2, rebate, 3, cash, 4-, 2, rebate, credit, note, delivery, vacant, possession, 5-, 3, cash, pay, 5, instalment, 6, month, spa.6-, balance, downpayment, pay, 3, instalment, 3rd, 9th, 15th, month, sign, spa, buyer, issue, post, date, cheque, sign, furnish, includes:1-, 2, unit, aircond, 2-, kitchen, cabinet, hood, stove.3-, build, heater, master, bedroom4-, digital, locksetmaintenance, fee, rm0.33, sqftplease, note, development, commercial, title, commercial, rate, apply, assessment, utility, development, residential, utility, provider, allow, use, residential, rate, sa, confirm, puteri, palma, condo, situation, successfully, convert, title, residential, hope, info, help",Nidz,"Aug 15 2014, 03:46 PM",0.936
+268,"putrajaya, price?cyberjaya, cheap, lol",xyyap,"Aug 15 2014, 04:22 PM",0.4215
+269,"good, know, clio, vp, phase, mall, complete, look, forward, wonder, walkable, distance, i'm, curious, connextion, retail, close, mall, competition, right",ftan,"Aug 15 2014, 04:45 PM",0.6369
+270,"misleadingnewspaper, advert, 499k, minand, rm552psfnow, 580k, onwards???i, hate, kind, cheat, people, mislead, advertthey, claim, walk, ..., cheating",ibbrio,"Aug 15 2014, 04:53 PM",-0.8146
+271,"maybe, bumi, discount",Babizz,"Aug 15 2014, 05:09 PM",0.0
+272,"u, try, ask, project, director, team, member, project, walk, site, mall, ..., believe, claim, ..",bigman,"Aug 15 2014, 05:16 PM",0.0
+273,"location, persiaran, utara, inside, boundary?re, colour, dotted, line, mean, ioi, resort, city?clio, inside, outside, boundary??seems, paste, pic, google, map",ibbrio,"Aug 15 2014, 05:20 PM",0.0
+274,"printscreen, attach, sure",viper88,"Aug 15 2014, 05:22 PM",0.3182
+275,"yes, ..., unit, 499k",siawengwai,"Aug 15 2014, 05:22 PM",0.4019
+276,"unit?next, toilet, ah?next, car, park, ah?even, bumi, discount, rm, 499,xxx",ibbrio,"Aug 15 2014, 05:24 PM",0.0
+277,"yet?called, sale, office, answer, callsit, look, far, city, mall, edge, ioi, land, clio, uniten, land, view, face, ioi, city, mall, view, facing??future, development, service, apartments?phase, 2, mall, normally, year, realise, depend, success, phase, 1, wait, land, sand",ibbrio,"Aug 15 2014, 05:25 PM",0.6868
+278,"look, like, puteri, palma, buy, look, nearer, mall, surround, greenery, nice, golf, course",ibbrio,"Aug 15 2014, 05:34 PM",0.6486
+279,"look, like, buy, stay, future, development, place, ready, mature, easy, rental, market",ibbrio,"Aug 15 2014, 05:37 PM",0.8658
+280,"rate, investmt, clio, putra, residence",d.storey,"Aug 15 2014, 06:03 PM",0.0
+281,"normally, 1st, launch, cheap, locate, far, away, ...",bigman,"Aug 15 2014, 06:22 PM",0.0
+282,"cheap, meh, rm, 589,000, onwards, low, level, oni, niahthis, face, uniten, unit, yardwhat, uniten, view, look, like?looking, ioi, land, eventual, future, launch, probably, like, skyz, puchong, high, pricing, lack, buyer",ibbrio,"Aug 15 2014, 08:37 PM",-0.296
+283,"hi, launch, follow, true, 2, pm, 15.08.20141, rate, impressive, type, c, high, floor, unit, 16th, floor, type, b, time.2, type, b, unit, sell, 17th, floor, mind, unit, adjacent, water, tank.3, 5, discount, pay, stage, forget, mechanic, like, 3, 2, 6, months.4, flexi, pay, downpayment, pay, use, postdate, cheque, 3, payment, span, 15, month, 5, 2, car, park, unit, fix, allocation6, view, available, type, c, b, facing, uniten, nice, view, rest.7, book, fee, rm8000, rm500, fee, loan, disapprove, 3, bank, rm8, k, bye, bye.8, completion, time, 3, year, 20%9.most, bank, offer, 4.5, loan",peyter,"Aug 15 2014, 08:52 PM",0.8074
+284,"rate, type, d",chicargo,"Aug 15 2014, 08:54 PM",0.0
+285,"time, slow",peyter,"Aug 15 2014, 11:37 PM",0.0
+286,"purchase, power, strong, malaysia",JamesPond,"Aug 16 2014, 12:17 AM",0.5106
+287,"buy, cheap, leave, pricy, big, pocket, investor, ini, roundabout, road, meaning, suffer, road, noise, pack",ibbrio,"Aug 16 2014, 01:40 AM",-0.5719
+288,"type, b, 16th, floor?how, type, c, high, floor?all, price, 5",ibbrio,"Aug 16 2014, 01:45 AM",0.0
+289,"google, maps, like, good, 200, m, main, road",chicargo,"Aug 16 2014, 01:47 AM",0.6597
+290,"condo, busy, road, cross, road, walk, mallso, buy, price, increasingso, force, bbb, sunday",ibbrio,"Aug 16 2014, 01:48 AM",0.0
+291,"type, d?bett, view, face, mall, golf",ibbrio,"Aug 16 2014, 08:24 AM",0.0
+292,"19th, foor, type, d:78780019th, foor, type, a:875800before, discount, auspicious, floor, 4",peyter,"Aug 16 2014, 08:25 AM",0.0
+293,"wonder, big, difference, view, type, d, -01, type, d-09, direction, sale, brochure, golf, view, pool, city, mall, view",chicargo,"Aug 16 2014, 08:49 AM",0.0
+294,"depend, like, greenery",peyter,"Aug 16 2014, 09:28 AM",0.3612
+295,"sale, person, 1, km, city, mall, phase, 2, phase, 2, launch, plan, buy, small, unit, think, sunday, bit, late",peyter,"Aug 16 2014, 09:31 AM",0.0
+296,"correct, location, google, think, 300, m, phase, 2, 800, m, phase, 1maybe, mean, drive, distance, direct, pedestrian, walkway, surely, benefit, project",chicargo,"Aug 16 2014, 09:33 AM",0.7096
+297,"book, unit?1, km, walk, distance, claim, advertisement, like, golf, face, view, united, view, ok, quiet",ftan,"Aug 16 2014, 09:51 AM",0.7579
+298,"mayb, ioi, try, copy, tropicana, ..., launch, developer, ...., buyer, snap, wat, price, offer, ..., ioi, forget, ..., different, betwwen, buyer, puchong, cheras, seri, kembangan, compare, buyer, pj, rich, n, dun, care, ..",bigman,"Aug 16 2014, 09:56 AM",0.7096
+299,"unit, 01, 09, face, direction, view, believe, balcony, 2, unit, 30, meter, apart, share, view, think, categorise, mall, view, golf, view, sale, pitch, build, direct, flyover, ioi, city, mall, clio, site, think, 2, min, drive, mall, walk, mall, possible, 2, km, .both, view, nice, face, mall, golf, course, putrajaya, lake, construction, development, uniten, view, relaxed, building, space, apart, visible, construction, development, site, mountain, area, suggest, guy, panorama, view, sale, office, nice",Nidz,"Aug 16 2014, 07:42 PM",0.875
+300,"smell, flipper, project, pricy, unit, ....., nahhhh, ..., investor, touch, bco, decent, return, cheap, unit, buy, uncle, auntie, oso",kamilnu,"Aug 16 2014, 09:00 PM",0.0
+301,"hot, sale",brand,"Aug 16 2014, 09:18 PM",0.0
+302,"kind, pricing, difference, skyz, puchong, putrajayasubsequent, launch, close, 1, mil???no, eye, eyesgreedy, developer, everywhereyet, uncle, auntie, buy, like, taugehputeri, palma, 2, subsale, 650k, ask, price, 1400sqft, deal, lor, ..",ibbrio,"Aug 16 2014, 09:54 PM",0.7536
+303,"confirm, sellin, point",ibbrio,"Aug 16 2014, 10:20 PM",0.0
+304,"lol, walk, 1, km, malaysia, weather?mid, valley, walk, garden, end, 1, km, air, condask, tan, sri, ioi, walk, n",ibbrio,"Aug 16 2014, 11:26 PM",0.4215
+305,"property, market, gettin, unhealthyany, tom, d, harry, developerjust, launch, enjoy",ibbrio,"Aug 17 2014, 04:24 AM",0.4939
+306,"basically, clio, consider, good, residential, project, zone",Kicimiao66cc,"Aug 17 2014, 09:53 AM",0.4404
+307,"yes, scout, project, site, accessible, road, flyover, complete, personally, think, walk, mall, especially, hot, sun",Nidz,"Aug 17 2014, 10:41 AM",0.4019
+308,"good, cyberjaya, project",brand,"Aug 17 2014, 12:41 PM",0.4404
+309,"compare, compare, address, putrajaya, vs, cyberjaya?clio, leverage, huge, shopping, mall, sell, point.cyberjaya, past, launch, mainly, target, student, work, professional, apart, people, buy, stay, despite, work, retirementcould, clio, target, uniten, student, walk, distance, uniten, view, unit",ibbrio,"Aug 17 2014, 03:50 PM",0.3182
+310,"flyover, good, like, tropicana, city, mall, create, flyover, connect, mall, easy, community, enter, mall, straight, outside, visitor, soon, use, cause, congestion, mall",ibbrio,"Aug 17 2014, 04:06 PM",0.8834
+311,"miss, clio, serviced, apartment, condo, launch, right, good, come, price, tag, premium",ibbrio,"Aug 17 2014, 11:22 PM",0.3182
+312,"best, current, house, buying, planner, come, good, project, future, house, buying, planner, ya",Kicimiao66cc,"Aug 18 2014, 07:28 AM",0.7964
+313,"buy, type, c, b?car, park, 6, 7, floor, imagine, drive, daily, damn, scary",ibbrio,"Aug 18 2014, 09:54 AM",-0.7096
+314,"yup, agree, sale, person, phase, 1, mall, 2, km, phase, 2, 1, km, clio, advertise, walk, distance, imo.clio, leverage, mega, mall, golf, course, resort, environment, future, township, developer, planning, controlled, sure, target, student, rich, mall, successful, office, potential, tenant, cyberjaya, lot, launch, think, maybe, bit, need, careful, choose, right, product, location, interested, bide, time",ftan,"Aug 18 2014, 10:00 AM",0.9382
+315,"ths, response, n, turnout, today",ruben7389,"Aug 18 2014, 10:41 PM",0.0
+316,"personally, think, bullet, large, unit, 1410, sqf, start, price, rm810k, onward, incentive, discount, ..., rm770k, 1410, rm546, psfthe, price, fair, ..., hahah, 2, cent",Ace Ranger,"Aug 19 2014, 09:20 AM",0.5859
+317,"ace, ranger, right, bad, entry, cost, high.ruben7389, morning, people, big, frenzy, probably, rain, snapshot, sale, chart, 11am, edit, ai, flip, pic, use, phone",ftan,"Aug 20 2014, 09:35 AM",-0.7003
+318,"bbb, mode, ....., goshh",kamilnu,"Aug 20 2014, 04:13 PM",0.0
+319,"ya, morning, tomorrow, ask, sa, buy, investment",ftan,"Aug 20 2014, 04:17 PM",0.0
+320,"rotate, 4, u, ady, .., nah, .., look, good, sale, .., puchong, nowday, boom, .., price, like, kl, ady",viper88,"Aug 20 2014, 04:39 PM",0.6124
+321,"wow, sale, strong",enkil,"Aug 20 2014, 04:43 PM",0.7964
+322,"viper88, thank",ftan,"Aug 20 2014, 04:46 PM",0.3612
+323,"s, sad, water, tank, sapu",rachel_xxx,"Aug 20 2014, 04:48 PM",-0.4767
+324,"today, look, free, food?how, sale",ftan,"Aug 20 2014, 04:50 PM",0.5106
+325,"type, c, type, b, leave, 2, 12, pm, type, 9, left, type, d, plentiful, oh, good, news, tnb, rate, residential, rate, sale, person, water, quit, rent, negotiationand, little, bird, tell, price, 1, 2, friday, night",peyter,"Aug 20 2014, 04:53 PM",0.4019
+326,"thank, info, buy?i, doubt, residential, rate, sa, commercial, rate, maybe, help, convert, vp.hmm, check, price, yesterday, 1, 2, increase, high, price, imo",ftan,"Aug 20 2014, 04:57 PM",0.6124
+327,"sure, type, d, plenty, type, big, size?type, d, 50, unit, wor, type, 200, unit",Ace Ranger,"Aug 20 2014, 05:03 PM",0.3182
+328,"oops, right, second, large, bout, 9, unit, large, plentiful",peyter,"Aug 20 2014, 05:08 PM",0.0
+329,"sell, project, 3, day, despite, high, pricing.there, mosque, view, wonder, view, obstruct, future, construction, tall, building, block, view, golf, course, mall.a, property, 1, 2, km, mall, push, super, high, capital, appreciation, staff, work, mall, rent?type, cheap, psf, type, affordability, remain, key, developer, continue, ignore, imho, ridiculous, rubbish, increase, 1, 2, preview.there, justification, speculation, developer, speculate, buyer, speculate, end, property, market, distort",ibbrio,"Aug 20 2014, 05:16 PM",0.0772
+330,"today, continue, look, like, seller, marketany, developer, simply, launch, sure, newly, coin, word, waterfish, buy, haha, developer, like, whimdeveloper, rich, citizen, poor, commit, end, debttan, sri, sale, today?staff, badtan, sri, let, increase, 3, tomorrow, fish, waterfish",ibbrio,"Aug 20 2014, 07:35 PM",0.9231
+331,"willing, seller, willing, buyer, market, ..., investor, preference, term, neighbor, location, price, environment, etc, ..., kl, area, small, size, unit, price, ..., right, wrong, purchase, view, ..., m2c, 😅",Ace Ranger,"Aug 20 2014, 07:56 PM",-0.4767
+332,"correct, pick, new, word, use, forumpeople, think, invest, property, easy, money, need, work, buy, sit, lead, bbb, mentality, buyer, property, launch, developer, continue, sell, high, price, find, hard, sell, similarly, vp, buyers.actually, lot, genuine, buyer, look, property, current, crazy, ..., justification, pricing, sense, people, heavily, debt, service, good, margin, bank, loan, developer, bank, profit, people, try, flip, ordinary, people, suffer, reason, people, compare, malaysian, property, cheap, hope, correction, property, pricing, soon, wanton, mee, suddenly, jump, rm, 10, 15, bowl, acceptable, inflation, reasonable, growth, like, happen, suddenly, property, price",ibbrio,"Aug 21 2014, 09:23 AM",0.8481
+333,"agree, look, home, face, difficulty, find, house, budget, week, view, apt, ground, floor, owner, want, sell, rm290k, nego, rm270k, day, bank, indicative, valuation, report, guess, 4, bank, ask, valuation, rm210k, rm230k, tell, owner, die, die, want, sell, rm290k, bcos, unit, sell, rm260k, i'm, willing, topup, ask, rm245k, max, wait, game, begin, ..., moral, malaysian, property, price, bloated, artificial, pricing, wait, collapse, weight",norman05051984,"Aug 21 2014, 11:48 AM",-0.8834
+334,"inflated, price, ..., wait, wait, ..., seller, respondsif, buyer, hold, sure, change, property, pricingafter, ground, floor, subject, noise, people, walk, follow, bank, valuation, possible, help, loan, amountasking, price, ...., ask, price, oni, nia, ...",ibbrio,"Aug 21 2014, 03:26 PM",0.6124
+335,"slow, slow, wait, ..., rule, thumb, principal, market, drive, demand, supply, basis, easy, money, equivalent, prevalent, long, term, type, investment, asset, nation, individual, thank, inflation, hike, chain, effect, bring, collateral, price, appreciation, instead, blame, developer, bank, profit, individual, thinking, motivated, find, way, contribute, strengthen, affordability",ESBI_E,"Aug 21 2014, 03:47 PM",0.9382
+336,"haha, yes, wait, wait, work, hard, hard, increase, wealth, buy, government, developer, understand, rakyat",ibbrio,"Aug 21 2014, 03:56 PM",0.8555
+337,"slow, slow, wait",tongyk,"Aug 21 2014, 04:06 PM",0.0
+338,"work, hard, past, tense, work, smart, present, tenseunderstanding, mutual, rakyat, understandable, live, world, capitalism, mechanism, .., capitalism, prove, benevolent, human, race, ..., face, ler",ESBI_E,"Aug 21 2014, 08:21 PM",0.5574
+339,"buy, esbi?what, think, cheap, project?this, forum, kinda, quiet, compare, forumwhat, happened?some, forum, non, stop, talk, daily",ibbrio,"Aug 21 2014, 08:41 PM",-0.4098
+340,"certainty, embrace, uncertainty, certain",ESBI_E,"Aug 21 2014, 09:30 PM",0.4588
+341,"bro, philosopher, ah?haha",ibbrio,"Aug 21 2014, 10:08 PM",0.0
+342,"work, hard+smart, future, planet, space, tenserakyat, try, understand, catch, upjust, ask, friend, come, work, degreecannot, copecannot, buy, ler, ..., entrepreneur, success, onehow, little",ibbrio,"Aug 21 2014, 10:42 PM",0.7845
+343,"ibbrio, u, buy?quiet, 2, reasons:1, buyer, senior, know, existence, forum2, discuss, wait, mall, open, door, lurk, topic",chicargo,"Aug 22 2014, 12:09 AM",-0.2023
+344,"truemost, investor, buyer, come, forum, busy, moneyno, time, writebeside, find, unnecessaryi, think, mainly, analyst, forum, analysis, lead, paralysisnot, yetchicargo, buy, type",ibbrio,"Aug 22 2014, 12:15 AM",0.0
+345,"good, thought, high, unit, available, close, eye, ioi, resort, city, future, launchesmeanwhile, news, http://msn.iproperty.com.my/modules/news/r...s.aspx?nid=9113",chicargo,"Aug 22 2014, 10:41 AM",0.4404
+346,"usual, price, future, launch, claim, sale, team, high, chance, grab, cheap, unit, small, size, clio, suppose, low, density, premium, location, premium, road, face, noise, pollution",ibbrio,"Aug 22 2014, 11:13 AM",-0.0258
+347,"u, need, pay, bank, valuation, fee",MNet,"Aug 22 2014, 11:35 AM",-0.1027
+348,"probably, 2, wait, mall, open, nice, tenant, fb.next, ioi, launch, connextion, launch, gst, price, higher, right",ftan,"Aug 22 2014, 11:46 AM",0.4215
+349,"ask, indicative, valuation, fee, bank, list, cimb, 220kmaybank, 234kbank, islam, 210kbank, mualamalat, 240krhb, tbcambank, tbcto, answer, q, indicative, free, play, tarik, tali, owner, agree, bank, mv, agree, absolutely, crazy, price",norman05051984,"Aug 22 2014, 11:50 AM",0.791
+350,"market, understanding, ..., high, property, talk, speaker, buy, buy, buy, buy, buy, buy, buy, taugeh, fresh, buy, buy, buy, buy, later, price, high, know, developer, cost, structure, profit, margin, ..., play, lot, factor, price, high, price, property, buy, today, know, price, gst, inside, .imo, need, rush, gst, depend, want, buy, today, look, ioi, resort, city, development, wait, price, drop, pray, durian, drop, sky",ibbrio,"Aug 23 2014, 09:42 AM",0.7184
+351,"regard, gst, think, current, new, development, project, factor, increase, material, price, gst, launch, year, project, need, 3, year, construction, contractor, buy, material, need, buy, stage, price, effect, gst, factor, right, margin, low",Nidz,"Aug 23 2014, 01:07 PM",0.0516
+352,"nidz, want, muchdid, manage, sapu, 1, unit?many, buy, small, sqft, late, liao, ...",ibbrio,"Aug 24 2014, 02:28 AM",0.0772
+353,"yes, buy, big, unit, 2nd, floor, include, discount, sqft, cost, rm550",Nidz,"Aug 24 2014, 06:36 AM",0.4019
+354,"type, value, psf, calculated, 2nd, floor, close, road.congratulation, unit, clio, 775kthis, price, type, b, high, floor, big, unit, deal",ibbrio,"Aug 24 2014, 07:44 AM",0.34
+355,"think, noise, issue, know, 7, floor, clio, parking, area, facility, floor, technically, 2nd, floor, unit, 9th, floor, normal, building, plus, road, infront, clio, main, road, putrajaya, main, road, inside, 300, 500, m, reach, clio.but, yeah, comfortable, decision",Nidz,"Aug 24 2014, 07:53 AM",0.6808
+356,"indicative, price, bank, share, need, check, bank, 1st, talk, owner, ask, price, alway, rocket, high",eco_supporter,"Aug 26 2014, 01:22 PM",0.296
+357,"second, floor, face, view",Ace Ranger,"Aug 26 2014, 01:28 PM",0.0
+358,"contact, banker, help, valuation, info, regard, property.golf, course, view",Nidz,"Aug 26 2014, 01:37 PM",0.4019
+359,"yes, true, refer, project, launch, gst, implementation, hide, cost, cause, property, price, hope, info, gst.ibbrio, plan, ioi, resort",ftan,"Aug 26 2014, 01:46 PM",0.7717
+360,"great, view, connexion, block, view, future",Ace Ranger,"Aug 26 2014, 01:48 PM",0.296
+361,"think, connexion, directly, clio, left, understand, plan",Nidz,"Aug 26 2014, 02:14 PM",0.0
+362,"nidz, congrat, ur, unit, .., ur, price, sound, good, n, 9th, floor, avoid, road, noise, ..., stay, rental, flipping",Babizz,"Aug 29 2014, 09:52 AM",0.1779
+363,"refer, map, development, left, ioi, huge, land, leave, right, exactly, view, future, find, development, continue, future, face, road, mean, road, straight, connexion, designate, commercial, area, integrated, development, mean, build, service, apartment, high, rise, .ftan, yes, keen, development",ibbrio,"Aug 29 2014, 01:35 PM",0.802
+364,"time, plan, stay",Nidz,"Aug 29 2014, 05:50 PM",0.0
+365,"sorry, hijack, thread, honestly, follow, advice, fellow, lyn, purchase, property, year, fyi, start, study, property, purchasing, year, specific, thread, thishttps://forum.lowyat.net/topic/3327185to, answer, question, bank, ask, indicative, valuation, basic, information, property, like, floor, sqft, reno, exact, address, property, etc",norman05051984,"Aug 29 2014, 06:25 PM",0.7184
+366,"ya, worry, ..., sa, mention, clio, right, edge, flyover, bridge, ..., golf, view, unit, golf, scene",Ace Ranger,"Aug 30 2014, 11:42 AM",-0.4404
+367,"mall, view, phase, 1, 2!mall, view, actually, badi, believe, type, face, golf, course, mallsbut, evening, sun, rememberquite, hot, leh, experience, evenin, sun",ibbrio,"Aug 30 2014, 04:44 PM",0.0
+368,"wait, nearby, neighbor",ftan,"Aug 30 2014, 08:03 PM",0.0
+369,"cyberjaya, dirt, cheap",xyyap,"Aug 30 2014, 08:37 PM",-0.34
+370,"finally, buy, unit, clio?which, type?which, floor, price",ibbrio,"Sep 5 2014, 09:53 AM",0.0
+371,"type, c, mid, level, floor, 620800, selling, price, want, low, floor, stay, plan, change, 3, year, long, way, btw, need, input, taikor, mbb, offer, islamic, loan, think, ask, change, conventional, loan, easy, understand, lo, sign, better, inform, tomorrow, guy, lady, think",ftan,"Sep 5 2014, 10:05 AM",0.6124
+372,congrat,enkil,"Sep 8 2014, 11:16 AM",0.0
+373,"thank, let, 3, year, time, ioi, city, mall, good, indicator",ftan,"Sep 10 2014, 09:06 PM",0.6597
+374,"eh??how, type?i, think, thinkin, early, type, c, sell, friday?no, experience, islamic, loan, share, advantages?why, ask, bank, simple, comparison, type, bank, loan?i, love, comparison",ibbrio,"Sep 18 2014, 02:06 PM",0.8105
+375,"islamic, lock, period, ..., u, think, sell, vp, ..., consider, islamic",bigman,"Oct 6 2014, 07:27 AM",0.0
+376,"book, friday, coz, buy, voucher, undecide, type, c, b., end, decide, stick, budget, type, c.ye, right, settle, loan, application, wait, s&p, signing, etc",ftan,"Oct 6 2014, 11:53 AM",0.0
+377,"congratulation, n, good, luck",bigman,"Oct 6 2014, 12:17 PM",0.8689
+378,"ya, additional, saving, thousand, dollar, voucher, lucky, think, sale, open, friday, special, arrangement, book, friday.type, b, yard, agree, slight, price, increase, base, budget",ibbrio,"Oct 6 2014, 01:31 PM",0.8519
+379,"info, sale, far, week?still, left, type, oni",ibbrio,"Oct 6 2014, 02:14 PM",0.0
+380,"thank, happy, stuff, settle, mbb, fast, great, service, voucher, holder, buy, day, early, saving, good, promo, rush, buy, voucher, look, clio, sale, glad, buy, preference, type, b, 2, 1, room, pricing, increase, significantly, low, unit, type, stand, sale, chart, decide, sale, people, hover, wait, pick, overall, happy, purchase, process",ftan,"Oct 6 2014, 02:46 PM",0.9643
+381,"late, sale, chart?bbb, project",TSaccetera,"Oct 6 2014, 03:48 PM",0.0
+382,"cheap, unit, available, type, b, 1012, sq, ft, 21st, floor, 742k",chicargo,"Oct 6 2014, 03:49 PM",0.0
+383,wow,peyter,"Oct 6 2014, 03:51 PM",0.5859
+384,"fyi, maybank, islamic, discount, stamp, duty, 20",yck1987,"Oct 6 2014, 04:41 PM",0.2023
+385,"think, post, early, type, b, gone?maybe, reject, unit, releasedi, tell, reject, unit, price, higher, original, price, 1, 2%no, justification, understand, itis, like, reject, unit, subsalesubsale, change, handschanging, hand, mark, price",ibbrio,"Oct 6 2014, 09:02 PM",-0.0258
+386,"curious, percentage, sale, define, bbb, project, think, sale, good, point, completely, sell, day, .it, apply, project, project, buy",ftan,"Oct 6 2014, 09:33 PM",0.6369
+387,"project, long, 70, book, commendable, 10, 40, loan, reject, later",TSaccetera,"Oct 6 2014, 09:52 PM",-0.4019
+388,"thanks, accetera, note",ftan,"Oct 6 2014, 10:48 PM",0.4404
+389,"day, property, advertisement, newspaper, guess, appetite, property, stronganyway, hear, s, p, ready, sign, week, lawyer, tinkle",peyter,"Oct 6 2014, 11:12 PM",0.3612
+390,"pre, gst, hype, developer, like, launch, april, entice, buyer, type",chicargo,"Oct 6 2014, 11:47 PM",0.3612
+391,"tired, sale, people, launch, price, highersibeh, tiredgo, lahigher, lasee, market, response.go, lahigher, la",ibbrio,"Oct 7 2014, 12:01 AM",-0.4404
+392,"guy, right, s&p, sign, week, onwards",ftan,"Oct 7 2014, 12:01 AM",0.0
+393,"anybody, track, sales?ioi, quiet",ibbrio,"Oct 7 2014, 12:12 AM",0.0
+394,"provide, ure, sarcasticagreed",murrayballs,"Oct 7 2014, 09:55 AM",0.0
+395,"check, lately, know, ioi, roadshow, ongoing, fb, weekend, sunway, giza, ioi, city, mall, look, track, open, month, look, forward, buyer, quiet",ftan,"Oct 7 2014, 09:55 AM",0.0
+396,"hear, agent, rental, demand, high, mall, opening, soon, hopefully, clio, complete, rental, hit, 3k",eco_supporter,"Oct 7 2014, 01:21 PM",0.296
+397,"rental, 3k, expat, foreign, student, company, pay, accommodation?don't, think, local, pay, buy, place",ftan,"Oct 7 2014, 02:39 PM",-0.2023
+398,"hit, 3k, month, ..., pj, kl, area, hit, 6k, similar, sf, ..",bigman,"Oct 7 2014, 09:25 PM",0.0
+399,"know, inflation, gst, etc, coming, time, 3k, like",ftan,"Oct 7 2014, 11:14 PM",0.3612
+400,"yeahhh, ...., listen, agent, know, s, good",kamilnu,"Oct 7 2014, 11:15 PM",0.4404
+401,"familiar, putrajaya, rental, main, target, tenant, student, current, rental, market, prop, capital, surroundin, ioi, mall, guesz, ther, great, potential, ahead",CloudAtla$,"Oct 8 2014, 08:46 AM",0.6249
+402,"watever, agent, tell, u, discount, 50",CloudAtla$,"Oct 8 2014, 08:47 AM",0.0
+403,"mall, allow, chi, yuk, alcohol",CloudAtla$,"Oct 8 2014, 10:11 AM",0.2263
+404,"..., 100k, feel, ..., price, merc, bmw, lexus, cheap, ...",bigman,"Oct 8 2014, 01:13 PM",0.0
+405,"let, happen, gst, sure, myr, small, hope, ioi, city, mall, boost, surround, area",ftan,"Oct 8 2014, 01:15 PM",0.7845
+406,"people, rent, clio, mall, time, do?they, worker",ibbrio,"Oct 8 2014, 01:33 PM",0.0
+407,"korean, rental, high, bco, school, university, malaysia, bcos, mall, ..., wat, shame, ...",bigman,"Oct 8 2014, 01:43 PM",-0.4767
+408,"sale, handsome, project, love, place",Kicimiao66cc,"Oct 8 2014, 01:44 PM",0.8126
+409,buyer,ftan,"Oct 8 2014, 01:45 PM",0.0
+410,"audience, 😁",Kicimiao66cc,"Oct 8 2014, 01:46 PM",0.0
+411,"note, buyer, lyn, hmm, ..",ftan,"Oct 8 2014, 01:47 PM",0.0
+412,"fall, love, place?i, like, township, need, mall, hotel, golf, highway, future, office",chicargo,"Oct 8 2014, 01:51 PM",0.7717
+413,"......., good, road, system, ...., potential, rail, network",tmdsad,"Oct 8 2014, 01:54 PM",0.4404
+414,"mall, factor, cyberjaya, putrajaya, lot, expat, international, school, area, .., combine, factor, good, potential",eco_supporter,"Oct 8 2014, 01:55 PM",0.4404
+415,"limited, certain, buyer, know, mean",peri peri,"Oct 8 2014, 01:56 PM",0.0516
+416,"a;ways, hear, thing, cyber, project",peri peri,"Oct 9 2014, 01:57 PM",0.0
+417,"hahai, read, articlemalaysian, pastime, hobby, shop, walk, therei, youyou, melook, offer, sale",ibbrio,"Oct 9 2014, 03:13 PM",0.0
+418,"yesterday, walk, walk, alamanda, visit, 1, year, ago, suddenly, feel, like, belong",peri peri,"Oct 9 2014, 03:22 PM",0.3612
+419,"haha, understand, surprisingly, good, mix, buyer",ftan,"Oct 9 2014, 05:25 PM",0.7964
+420,"like, project, surround, radius, 1, km, hehe",Kicimiao66cc,"Oct 9 2014, 09:53 PM",0.3612
+421,"place, sure, belong, la, deserve, location",Kicimiao66cc,"Oct 9 2014, 10:05 PM",0.3182
+422,"maybe, ioi, appeal, revoke, quota, premium, pay, kpkt, buyer, absorb",peri peri,"Oct 10 2014, 10:09 AM",-0.1027
+423,"hehe, live, near, think, wanna, dinner, tgi, friday, crowd, restaurant",peri peri,"Oct 15 2014, 03:06 AM",0.0
+424,"end, 2014, approach, wonder, new, mall",payamam,"Oct 16 2014, 11:33 AM",0.0
+425,"u, meant?no, peri, peri, nando, chicken, suit, meh",ibbrio,"Oct 18 2014, 12:40 PM",-0.0772
+426,"certain, buyer, means?insider?investor?bumi?gov?bbb, team",ibbrio,"Oct 21 2014, 01:39 AM",0.4696
+427,"u, like, chicken, nando",CloudAtla$,"Oct 21 2014, 01:43 AM",0.3612
+428,"know, end, eat, nando",peri peri,"Oct 28 2014, 05:54 PM",0.0
+429,"expensive, small, portion, rm18++, quarter, meal, plus, tax, charge",peri peri,"Oct 28 2014, 06:52 PM",0.0
+430,"priority, bumi, putrajaya, policy",peri peri,"Oct 28 2014, 08:09 PM",0.0
+431,"ya, hate, chain, food, malaysia, .., think, u, like, nandos, cos, u, peri, peri, sauce",Babizz,"Oct 30 2014, 01:23 PM",-0.296
+432,"luckily, order, bottomless, soft, drink, rm, 5.90, sauce, dayum, hot",peri peri,"Oct 30 2014, 01:26 PM",0.5106
+433,"haha, u, chill, alamanda, time, ioi, city, thing, la, interior, look, good, n, exterior, dam, glassy, n, nice",Babizz,"Oct 30 2014, 09:19 PM",0.8271
+434,"look, look, update, market, analysis, hehe",peri peri,"Oct 31 2014, 08:19 AM",0.0
+435,"check, makan, makan, hahahahacan't, help, notice, yellow, peri, peri, chickenalamanda, crowd, strong, right?gov, area, earn, like, putrajaya, ...",ibbrio,"Oct 31 2014, 10:39 AM",0.5487
+436,"food, court, strong, think, food, drink, nice",peri peri,"Oct 31 2014, 12:18 PM",0.7269
+437,"hear, 2nd, high, household, income, putrajaya, lot, senior, staff, ..., btw, peri, peri, u, notice, new, old, mall, fail, cos, analysis, mall, otw, fail",Babizz,"Oct 31 2014, 12:19 PM",-0.7906
+438,"sale, status",yunalesca,"Oct 31 2014, 12:41 PM",0.0
+439,"wonder, mrt, come",TSaccetera,"Oct 31 2014, 08:58 PM",0.0
+440,"good, think, population, catchment, area, uniten, upm, exceed, ioi, resort, city, ioi, strong, lobbying, power",chicargo,"Nov 1 2014, 03:55 AM",0.7096
+441,"difference, look, like, launch, statusyuna, sa, loan, reject, unit",ibbrio,"Nov 1 2014, 03:59 AM",-0.0516
+442,"think, mention, early, post, area, sepang, selangor, restriction",ftan,"Nov 1 2014, 04:05 AM",-0.2732
+443,"far, aware, bumi, discount, yes, bumi, quota, project",chicargo,"Nov 1 2014, 10:36 AM",0.4019
+444,"yeah, think",ftan,"Nov 1 2014, 10:38 AM",0.296
+445,"https://www.facebook.com/ioiresortcity/phot...52783721641228/october, 14, update",chicargo,"Nov 1 2014, 10:40 AM",0.0
+446,"nice, pic, fb, ya",peyter,"Nov 1 2014, 12:20 PM",0.4215
+447,"opt, x, month, payment, downpayment, balance, loan, inform, 2, discount, pay, upfront, lower, pay, cheque",peyter,"Nov 1 2014, 10:12 PM",-0.4588
+448,"open, nov, mall, big, got, gsc, parkson, ice, skate",xplox2007,"Nov 1 2014, 10:29 PM",0.0
+449,"check, taylor, lakeside, campus, rental, high, bec, cyberjaya, high, rental, university, shopping, mall, convenience, resident, live, nearby",xplox2007,"Nov 2 2014, 03:45 PM",0.0
+450,"wonder, clio?the, commercial, build, serviced, apartment",ibbrio,"Nov 2 2014, 07:37 PM",0.0
+451,"stay, garden, residence, cyberjaya, ioi, city, mall, 6, minute, away, ..., yayyyyyyyyyyi, look, forward, run, errand, watch, movie, come, month, hope, open, branded, outlet, like, prada, hermes, channel",hasec,"Nov 2 2014, 08:28 PM",0.6597
+452,"yeah, launch, tell, understand, commercial, 1, 2, km, ioi, city, mall, kopitiam, bank, ok, mid, high, end, f&b, outlet, tough",ftan,"Nov 2 2014, 08:37 PM",0.4404
+453,"prada, hermes??i, market, area?they, start, 1st, researchperhap, phase, 2, mall, consider, prada, want",ibbrio,"Nov 2 2014, 10:13 PM",0.212
+454,"bank, think, want, enter, therecar, showroomshoppe, reserve, branded, tenant, commonly, find, mallscommercial, lot, normal, f&b, ..., local, pharmacy, serve, avoid, parking, mallbetter, park, outside, shop, run, inside, grab, panadol, kinda, lifestyle, ..",ibbrio,"Nov 2 2014, 10:20 PM",-0.2263
+455,"wait, garden, plaza, commercial, open, basic, stuff, like, 7, 11, open, ..., dpulze, mph, ...",ibbrio,"Nov 3 2014, 07:54 AM",0.3612
+456,"https://www.facebook.com/groups/theclio/fb, page, clio",swisspalm,"Nov 3 2014, 08:33 AM",0.0
+457,"bank, affordable, food, kopitiam, shop, pharmacy, car, showroom, sure, place, hope, ioi, know, market, place, people, group",ftan,"Nov 3 2014, 01:19 PM",0.6369
+458,"u, guy, likey, cyberjaya?except, golf, cyberjaya",murrayballs,"Nov 3 2014, 02:14 PM",0.0
+459,"think, usually, shop, near, mall, bustling?it, cater, different, market, usersam, right?has, shop, near, mall, business?unless, mall, separuh, masak, likely, lor, ...",ibbrio,"Nov 3 2014, 02:17 PM",0.0
+460,"murray, ioi, different, mani, love, wake, golf, course, green, green, mistcyberjaya, mall, sizemalaysian, love, lepak, lepak, culture, free, air, cond, mall",ibbrio,"Nov 3 2014, 03:40 PM",0.9136
+461,"2nd, phase, mall, incorporate, luxury, brand, clio, price, uuu, .., congratulate, clio, owner, la, .., lately, hear, electricity, price, mall, reduce, temperature, .., mall, aircond, like, space, u8, shah, alam, die, ..",Babizz,"Nov 3 2014, 04:36 PM",0.2023
+462,"hope, ioi, city, mall, soft, opening, dpulze, today",ftan,"Nov 3 2014, 10:37 PM",0.4404
+463,"check, reveal, phase, 2, mall, construct, later, stage, nla, 900,000, sq, ft, phase, 2, close, proximity, universiti, tenaga, nasional, propose, uniten, mrt, station, potentially, locate, there.http://www.nst.com.my/node/48299",chicargo,"Nov 4 2014, 08:16 AM",0.0
+464,"clio, sell, ioipg, second, condo, project, putrajaya, puteri, palm, 2011, achieve, 70, launch, august, clio, estimate, gdv, myr180, m, asp, myr650, psf, expect, future, gdv, remain, putrajaya, land, expand, boost, late, infrastructure, development, source, rhb, research",chicargo,"Nov 4 2014, 12:18 PM",0.6124
+465,"suppose, die, die, want, golf, course, view, mean, good, buy, lerpoint, mall, golf, course, need, smack, door, quick, 5, 10, min, drive, sufficelike, damansara, u, pj, people, wish, live, bandar, utama, close, utamaend, result, end, drive, mall, bandar, utama, peopledaily, lepak, mamak, kopitiam, leh, people, mall, weekend, mostlyeven, u, frequent, mall, week, mind, drive, mallsreduce, ac, bring, end, result, like, space, u8, lahpersonally, c, work, like, sunway, gizaspace, u8, apprearance, lack, class",murrayballs,"Nov 4 2014, 10:35 PM",-0.0516
+466,"sunway, giza, mall, reallymore, like, neighbourhood, commercial, portion, air, conditionedhaha, golf, course, mall, bonusmalaysian, want, choose, good, low, price",ibbrio,"Nov 4 2014, 11:26 PM",0.5574
+467,"dpulze, opened?how, experience?similar, current, mall, klang, valley?like, paradigm, type",ibbrio,"Nov 4 2014, 11:31 PM",0.0
+468,"depend, strategy, ability, attract, brand, retailerseven, sufficient, crowd, class, shopping, centralise, klplace, like, 1, u, incorporate, branded, retailer, sure, sale, revenue, match, pavilion, starhill, ...",ibbrio,"Nov 4 2014, 11:32 PM",0.8225
+469,"expectation, soft, opening, shop, open, drop, think, like, empire, layout, paradigm, mall, soft, opening, safe",ftan,"Nov 4 2014, 11:38 PM",0.5106
+470,"empire, subang?then, small, not?they, open, tenant, ready, ..",ibbrio,"Nov 5 2014, 12:27 AM",0.4329
+471,"yeah, mean, empire, subang, didn't, explore, coz, worker, set, mall",ftan,"Nov 5 2014, 05:46 AM",0.296
+472,"hi, know, s, selling, price, now?type, c, sell",lupjoeq,"Nov 5 2014, 09:51 AM",0.0
+473,"fully, sell, look, bad, ......, ioi, ptj",PeriPeri2014,"Nov 5 2014, 10:20 AM",-0.5809
+474,"think, fully, sell, big, unit, leave, drop, sale, office, visit, ioi, city, mall, lazy",ftan,"Nov 5 2014, 12:53 PM",-0.5859
+475,"share, u, ....",PeriPeri2014,"Nov 10 2014, 09:56 PM",0.296
+476,"yeah, sure, probably, 3rd, week, november, like, car, park, allocate, unit, lift, away, entrance, opposite, recall, plan, pillar, car, park, need, worry, neighboring, car, accidentally, scrape, car",ftan,"Nov 11 2014, 08:14 AM",0.1779
+477,"offer, rebate, freebie",lupjoeq,"Nov 16 2014, 05:15 PM",0.4215
+478,"freebie, standard, air, con, kitchen, cabinet, stove, shower, screen, digital, lock, set, rebate, sure, late, deal, interested, buy",ftan,"Nov 16 2014, 05:28 PM",0.7783
+479,"think, 1u, hit, half, pavilion, good, .., starhilll, dead",Babizz,"Nov 16 2014, 05:55 PM",-0.34
+480,"look, saiz, big, malaysia, wor, ......, branded, inside, day, 6c6c, ......, dman, f***e, big",PeriPeri2014,"Nov 16 2014, 06:03 PM",0.0
+481,"hate, 1u, hope, mall, away, business, ..., retail, mix, strategy, haphazard, .., feel, like, shop, ..",Babizz,"Nov 18 2014, 08:32 AM",0.1779
+482,"usually, car, park, high, floor, large, unit, high, pricing, probably, mid, floors?haha, worry, parking, outside, nonsense, simply, park, close, car, open, door, direct, hit, doorsi, hate, kind, nonsense, outside",ibbrio,"Nov 18 2014, 01:59 PM",-0.8225
+483,"dead, time, business, mass, marketonce, special, visit, rich, celebrity, mariah, carey, haha, tan, sri, dato, anak, datin, life, continuethis, premium, shopping, pavilion, mix, pavilion, food, court, packed, hard, find, table",ibbrio,"Nov 18 2014, 02:04 PM",0.5574
+484,"unit, small, floor, level, mid, level, high, sure, allocate, car, park, lot, car, park, sufficient, think, parking, outside, help",ftan,"Nov 20 2014, 08:50 AM",0.6124
+485,"dun, kno, kno, big, big, big",PeriPeri2014,"Nov 20 2014, 06:04 PM",0.0
+486,"sa, tell, clio, 16arce, mixture, commercial, service, residence, ..., check, google, map, feel, big, big, building, ..., notice, basement, ..., clio, low, density, condo, ..., think, good, sense?my, research, price, offer, high, price, mont, kiara, condo, ..., persint, 14, condo, selling, 450psf, current, price, clio, 650above, ..., building, wing, condo, finish, sep2017, time, project, ongoing, 2020, mean, rental, income, condo.how, think, share, share",sbsoo111,"Nov 20 2014, 08:18 PM",0.6369
+487,"yes, clio, commercial, service, residence, launch, year, high, price, psf, .low, density, clio, service, apartment, condo, living, hope, convert, electricity, water, residential, rate, easy, justify, mean, mean, rental, income, condo""?the, ioi, city, mall, 3, year, old, mature, think, lack, tenant, amenity, nearby",ftan,"Nov 20 2014, 08:19 PM",0.8402
+488,"thank, help, question, hope, service, residence, expensive, clio.i, mean, tenant, year, tenant, interested, place, heavy, construction, pure, eye, prediction, area, need, 5, 7, year, overall, project, seen.aditional, note1, bridge, interchange, clio, mall, road, 6, lane, road, wonder, necessary, wide?2, infront, clio, condo, 0.8, arce, land, vacant, think, mrt, station",sbsoo111,"Nov 20 2014, 08:20 PM",0.8689
+489,"yeah, think, pricey, psf, small, size, unit, clio, price, launch, btw, buy?my, opinion, normal, tenant, care, esp, work, construction, time, high, end, tenant, care, hard, predict, happen, 3, year, time, flow, sure, hold, power, wah, like, wide, road, bridge, link, mall, clio, wonder, cater, service, residence, doubt, mrt, station, station, plan, uniten, ioi, manage, lobby, mrt, station, near, mall, expect, shuttle, service, mrt, station, hopefully, clio, stop",ftan,"Nov 21 2014, 10:42 AM",0.8779
+490,"find, building, land, clio, ""connexionthe, connexion, integrated, project, consist, commercial, development, serviced, apartment, spread, 16, acre, situate, clio, residences, commercial, component, consist, retail, outlet, office, retail, shop, range, 26, ’, x, 70, 42, ’, x, 80, size, office, hand, sized, 1,200, sq, ft, 4,220, sq, ft, residential, component, consist, 1,326, service, apartment, house, tower, build, range, 750, 1,200, sq, ft, additionally, level, parking, provide, 3,200, cover, bay, tenant, guest",sbsoo111,"Nov 21 2014, 10:51 AM",0.4939
+491,".., consider, survey, ..., bridge, golf, house, mall",sbsoo111,"Nov 21 2014, 11:03 AM",0.0
+492,"u, sale, office, b4",PeriPeri2014,"Nov 21 2014, 01:33 PM",0.0
+493,"ya, ..., d, unit, visit, drive, bridge, 100meter, away, clio, land, ...., point, view, clio, land, piece, land, useful, jz, good, build, single, story, condo.jz, worry, clio, view, block, tall, building",sbsoo111,"Nov 21 2014, 01:35 PM",0.0
+494,"sale, chart",chicargo,"Dec 22 2014, 06:05 PM",0.0
+495,"stilll, like, previous, lyt, member, post, ..., additional, unit, floor, 1, reopen",sbsoo111,"Dec 22 2014, 07:37 PM",0.3612
+496,"type, unit, target, stay, investment",chicargo,"Dec 22 2014, 10:34 PM",0.0
+497,"psf, high, service, apartment, launch, small, size, unit, come, match, low, entry, point, .., road, clio, suddenly, track, lrt, mrt",ibbrio,"Dec 24 2014, 09:37 AM",-0.2732
+498,"hard, tell, gov, release, official, detail, station, track, etc, mrt2",ftan,"Dec 25 2014, 01:08 AM",-0.1027
+499,"decide, ...., investment, ..., wonder, want, rent, .., :s",sbsoo111,"Dec 25 2014, 01:28 AM",-0.2263
+500,"available, unit, leave, sale, gallery",sosseres,"Dec 25 2014, 06:24 AM",-0.0516
+501,"yes, available, website, http://www.theclio.com.my/sales, galleria, ioi, resort, citylevel, 2, ioi, square, ioi, resort,62502, putrajaya, malaysia",ftan,"Dec 25 2014, 12:19 PM",0.4019
+502,"bro, visit, sale, gallery, 1410, sf, kinda, spacious, especially, masterbedroom, sa, ady, 5, p.m., actually, visit, ard, 445pm, prove, hardworking, r, know, psf, package, interested",Kvsual,"Dec 25 2014, 12:20 PM",0.4019
+503,"hi, kvsual, bro, showunit, palm, golf, course, club, sale, gallery, ioi, square, different, location, think, best, ioi, square, sa, base, honestly, sure, package, like, pm, sa, contact, reply, numerous, query, way, clio, launch",ftan,"Dec 25 2014, 12:26 PM",0.9001
+504,"okay, u, unit, size?kindly, pm, sa, contact, thank",Kvsual,"Dec 25 2014, 12:27 PM",0.5267
+505,"yes, pretty, sure, market, allocate, brand, store, phase, 2, ioicitymall, don't, forget, richie, country, heights, jadehills, gita, bayu, blu, constellation, sg, long, future, cyberjaya, owner, haha",Kvsual,"Dec 25 2014, 12:59 PM",0.8971
+506,"good, morning, far?i, think, connextion, good, small, size, low, entry, price, high, psf, detail",ftan,"Dec 25 2014, 01:53 PM",0.5719
+507,"oso, putrajaya, menteri, kaya, kaya, bring, wife, 2nd, wife, shop, buy, lv, ...",ibbrio,"Dec 25 2014, 05:44 PM",0.0
+508,"boss, ..., don't, forget, wife, datuk, datuk, tan, sri, tan, sri, work, putrajaya",propertyMontKiara,"Dec 25 2014, 11:41 PM",0.1695
+509,"future, project, connexion, par, 3, residences",chicargo,"Dec 25 2014, 11:47 PM",0.0
+510,"par, 3, residence",ftan,"Dec 26 2014, 07:40 AM",0.0
+511,"ioi, open, adyanybody, went?20nov, banner",ibbrio,"Dec 26 2014, 08:13 AM",0.0
+512,"tall, buildings?look, cooloffice, tower",ibbrio,"Dec 26 2014, 02:47 PM",0.0
+513,"pic, clio, build",ibbrio,"Dec 26 2014, 02:58 PM",0.0
+514,"morning, check, ioi, city, mall, thread, forumer",ftan,"Jan 5 2015, 02:49 PM",0.0
+515,"sa, intro, clio, pm, contact, thank",creations,"Jan 5 2015, 04:56 PM",0.3612
+516,"price, like",Cabinda,"Feb 1 2015, 02:41 PM",0.3612
+517,"thanks, mandidn't, realise, busyaime, service, apartment, connex",ibbrio,"Feb 1 2015, 05:15 PM",0.4404
+518,"great, post, hear, news",ftan,"Feb 2 2015, 10:07 PM",0.6249
+519,"ioi, city, mall, lg, floor, ioi, property, setup, booth, clio, small, scale, model, poster, etc",ftan,"Feb 26 2015, 11:00 AM",0.0
+520,"feel, reassure, clio, ioi, city, mall, launch",peyter,"Mar 5 2015, 09:51 AM",0.34
+521,"look, carefully, clio, 500, metre, away, ioi, city, mall, 1, km, report",chicargo,"Mar 5 2015, 03:17 PM",0.128
+522,"wat, diff, 500, m, 1km, hampir, sama",PeriPeri2014,"Mar 5 2015, 05:21 PM",0.0
+523,"collect, copy, s&p, sweet, time",ftan,"Mar 5 2015, 05:42 PM",0.4588
+524,"grab, low, floor, unit, hopefully, loan, wil, approve",lauweizhoong,"Mar 5 2015, 05:48 PM",0.1531
+525,"wat, size, small, unit, available",dreamer2020,"Mar 9 2015, 10:03 AM",0.0
+526,congrat,ftan,"Aug 25 2015, 11:36 AM",0.0
+527,"know, release, 1410sqf, unit, low, floor, okie, leh, regret, 1012sqft, price, ..",lauweizhoong,"Aug 26 2015, 07:15 AM",-0.5994
+528,"thank, bro",lauweizhoong,"Aug 26 2015, 08:38 AM",0.3612
+529,"waoo, come, price?new, release, cheap",dreamer2020,"Aug 26 2015, 12:53 PM",0.0
+530,"share, wat, price, u, buy, floor",PeriPeri2014,"Sep 9 2015, 07:50 AM",0.296
+531,"unit, u, share, bit, package",playmobile01,"Sep 9 2015, 08:00 AM",0.296
+532,700psf,Majesticman,"Sep 9 2015, 08:43 AM",0.0
+533,"great, welcome.1012sq, ft, good, alternative, choice, parking, level, low, floor, unit",ftan,"Sep 9 2015, 10:34 PM",0.7096
+534,"2, day, ioi, city, mall, chart, ..",lauweizhoong,"Sep 10 2015, 07:32 AM",0.0
+535,"low, floor, high, parking",lauweizhoong,"Sep 28 2015, 11:32 AM",-0.2732
+536,thanks,dreamer2020,"Sep 28 2015, 04:07 PM",0.4404
+537,"u, buy, early, ah, come, cheap, .., dis, ioi, city, reli, worth, 700, psf, ah, 1k, plus, sqft, unit, easy, flip, rent, puteri, palmas, resale, value, goode, ..",Babizz,"Jan 4 2016, 04:12 PM",0.7351
+538,"700psft, bit, high, ..., zzzbut, ioi, leh, ...., ioi, low, price",PeriPeri2014,"Jan 4 2016, 05:15 PM",-0.2732
+539,"ok, sale, chart, look, like, 4x, unit, available, 80, sell, project, progress, slow, steady",ftan,"Feb 18 2016, 08:09 AM",0.7579
+540,"wudnt, touch, ioi, development, poor, quality, read, skypod, thread, final, product, differ, brochure, look, high, end, eventho, psf, price, high, end",Deepster,"Feb 18 2016, 02:08 PM",-0.4767
+541,"happy, new, year",peyter,"Feb 18 2016, 04:05 PM",0.5719
+542,"lyden, dsth, unit, finish, decent, far, defect, minor, fair, lump, ioi, development, poor, quality",McFD2R,"Feb 19 2016, 12:20 AM",-0.4939
+543,"apart, possible, poor, build, quality, buyer, need, aware, ioi, poor, record, manage, property, sell, record, walk, away, managing, leave, resident, obviously, impact, security, maintenance, lack, control, greedy, landlord, 15, people, apartment, especially, near, new, mall, continue, aware, buy",Smiffy,"Feb 19 2016, 08:06 AM",-0.8225
+544,"easy, impose, rule, limit, number, people, apartment, puteri, palma, look, good, date, .., rental, demand, great, right",Babizz,"Feb 19 2016, 11:20 AM",0.8176
+545,"rental, pick, ..., depend, tenant, .., 2, 4k",eco_supporter,"Feb 21 2016, 07:51 PM",0.0
+546,"happy, chinese, new, year, folk",peyter,"Feb 22 2016, 11:53 AM",0.5719
+547,"mall, true, number, shopper, drop, compare, opening, week",cybermaster98,"Feb 22 2016, 01:02 PM",0.25
+548,update,cybermaster98,"Feb 23 2016, 05:40 PM",0.0
+549,"idea, unit, 16, 03, 17, 03",cybermaster98,"Feb 23 2016, 06:22 PM",0.0
+550,"bro, late, sale, chart",chicargo,"Mar 1 2016, 11:58 AM",0.0
+551,"nope, ask, base, chart, early",cybermaster98,"Mar 1 2016, 10:48 PM",0.0
+552,"mall, weekend, pack, weekday, quieter, mid, valley",peyter,"Mar 2 2016, 02:28 PM",0.0
+553,"rate, clio, residence, far, unit, remain",cybermaster98,"Mar 2 2016, 07:18 PM",0.0
+554,"90, check",lamode,"Mar 11 2016, 08:22 AM",0.0
+555,"plan, buy, connextion, launch, bad, sale, chart, picture",ftan,"Mar 18 2016, 05:09 PM",-0.5423
+556,"conezion, launch",CressC,"Mar 19 2016, 12:59 PM",0.0
+557,"sorry, know, exact, date, email, ioi, date",ftan,"Mar 25 2016, 01:30 AM",-0.0772
+558,"good, morning, receive, rebate, aug",ftan,"Mar 27 2016, 08:56 PM",0.4404
+559,"weekday, crowded, pyramid, etc, .., fnb, bizne, great",Babizz,"Mar 28 2016, 08:44 AM",0.6249
+560,"u, planning, invest, bro",BRE,"Apr 6 2016, 12:35 PM",0.0
+561,"cos, betul, betul, jungle, diamond, hill, hear, appreciate, lot, ..",Babizz,"Apr 7 2016, 12:53 PM",0.6249
+562,"jungle, good, ma, bro, fresh, air, nice, greenery!sapu, 1, unit, la, think, good, potential",BRE,"May 17 2016, 03:22 PM",0.8805
+563,"sale, chart, picture, week, visit, sale, office, », click, spoiler, click, hide, ..., «",ftan,"May 17 2016, 05:02 PM",-0.1779
+564,"check, buyer, progress, claim, 10, right, developer, claim, bank",Nidz,"May 17 2016, 05:09 PM",0.4215
+565,"keen, join, fb, community, page, clio, private, page, fb, nowas, progress, information, pop, sale, office, ask, printout, account, statementsale, currently, 85, stage, unit, available, water, tank, unsold",peyter,"May 23 2016, 06:22 PM",0.7579
+566,"cool, set, figure, way, private, ..., public, start, with.https://www.facebook.com/clio-residences-153654991670486/",peyter,"Jul 24 2016, 02:29 PM",0.3182
+567,"notice, thread, suddenly, pin, feb, rebate, tell, process, stage",ftan,"Aug 13 2016, 11:14 PM",0.0
+568,"ioi, advertisement, property, thread, clio, connezion, pin",Nidz,"Aug 15 2016, 03:25 PM",0.0
+569,"nidz, forum, you?yeah, notice",ftan,"Aug 15 2016, 05:09 PM",0.0
+570,"patiently, wait, condo, complete",Nidz,"Aug 15 2016, 05:09 PM",0.0
+571,"great, date, completion, 3q, 2017, peyter, post, picture, fb, 10th, floor",ftan,"Aug 15 2016, 07:21 PM",0.6249
+572,"yes, complete, 3q, 2017, look, track, overall, project, progress, 50",Nidz,"Aug 21 2016, 03:45 AM",0.6705
+573,"good, know, 10, progress, claim",ftan,"Aug 22 2016, 11:59 AM",0.6908
+574,"think, rebate, february",Yvonne YY,"Aug 22 2016, 12:18 PM",0.0
+575,"think, rebate, february",Yvonne YY,"Aug 22 2016, 12:30 PM",0.0
+576,"yes, process",ftan,"Aug 25 2016, 05:48 PM",0.4019
+577,20,Nidz,"Aug 28 2016, 02:22 PM",0.0
+578,"ok, thank, info",ftan,"Sep 19 2016, 01:08 PM",0.5719
+579,"think, 3, rebate, vacant, possession, far, receive, 2, rebate",Yvonne YY,"Sep 30 2016, 11:12 AM",0.0
+580,"think, 5, rebate, total, 6, month, email, find, breakdown",ftan,"Sep 30 2016, 06:33 PM",0.0
+581,"thanks, ftan, blur, dy, hopefully, blur",Yvonne YY,"Oct 5 2016, 11:25 PM",0.6808
+582,"welcome, post, update",ftan,"Oct 6 2016, 09:54 PM",0.4588
+583,rebate,ftan,"Oct 8 2016, 01:29 AM",0.0
+584,"receive, today, come, soon",peyter,"Nov 8 2016, 06:55 PM",0.0
+585,"yup, thx, head",ftan,"Dec 2 2016, 12:19 AM",0.3612
+586,"know, pin",JamesPond,"Dec 2 2016, 07:44 AM",0.0
+587,"ioi, sponsor",propertybbb,"Dec 2 2016, 08:46 AM",0.0
+588,"mod, clarify",JamesPond,"Dec 2 2016, 08:54 PM",0.0
+589,"compare, ioi, conezion, project, =), like, hear, feedback, u, haha~",SnowTing,"Dec 2 2016, 10:40 PM",0.3612
+590,"iirc, month, ago, ioi, advertise, property, talk, page, result, clio, conezion, thread, pin, guess, advertising, deal, mod, forget, unpin, thread, maybe",Nidz,"Dec 3 2016, 08:50 AM",-0.2263
+591,"conexion, construction, progress, aerial, video, 14th, 2016https://youtu.be/1nrcnlfl5fy",marcusho,"Dec 3 2016, 08:50 AM",0.4215
+592,"remember, clio, property, come, build, kitchen, cabinet",boo82,"Dec 3 2016, 09:03 AM",0.0
+593,"locate, sg, buloh, bungalow, project, right",mingfei2u,"Dec 3 2016, 09:32 AM",0.0
+594,"nope, clio, near, ioi, city, mall, develop, ioi, property",boo82,"Dec 12 2016, 10:40 PM",0.0
+595,"available, unit, site, progress, look, good, 👍",Kicimiao66cc,"Dec 14 2016, 01:22 PM",0.6908
+596,"pic, today, », click, spoiler, click, hide, ..., «, want, buy, pm, referral, fee, rebate",ftan,"Dec 14 2016, 01:24 PM",-0.1027
+597,"location, clio, today, newspaperhttp://www.thestar.com.my/business/busines...oi-resort-city/",TSaccetera,"Dec 16 2016, 09:39 PM",0.0
+598,"like, know, price, ..., pm",plurbuddyskuppy,"Dec 16 2016, 10:57 PM",0.3612
+599,"look, like, clio, 2, 3, 4, 5, ..., come",ahkit123,"Dec 17 2016, 12:10 AM",0.3612
+600,"look, like, clio, 2, 3, 4, 5, ..., come",ahkit123,"Dec 17 2016, 09:03 AM",0.3612
+601,"think, look, closely, clio, 2.pm, ed",ftan,"Dec 18 2016, 09:18 PM",0.0
+602,"hi, pm, floor, thank",1+5,"Dec 19 2016, 06:33 AM",0.3612
+603,"hi, receive, 4th, payment, ioi, le, meridien, open, 18th, aug, 2016, town, boom, progress, clio, 55",Yvonne YY,"Apr 18 2017, 12:51 AM",0.4215
+604,"good, know, rebate, september, hope, ioi, delay, know, company, office, tower, ioi, city, mall",ftan,"May 25 2017, 05:40 PM",0.5423
+605,"sure, think, vaguely, remember, come, hob, hood, right",Yvonne YY,"May 25 2017, 06:42 PM",0.3182
+606,"receive, rebate",ftan,"May 25 2017, 07:07 PM",0.0
+607,"picture, today, », click, spoiler, click, hide, ..., «",ftan,"May 26 2017, 02:03 PM",-0.1779
+608,"enquiry, project, pls, leave, ur, contact, link, contact, soon.as, possible, tqhttp://tinyurl.com/tcresidence",property direction,"May 28 2017, 04:10 PM",0.0258
+609,"knowwhat, diff, clio, conezion?y, launch, condo, time?anyone, know?=z=",sirzachzery,"May 29 2017, 02:51 PM",0.0
+610,"clio, low, dense, service, apartment, 2++, plus, unit, block, launch, 2, year, unit, left.conezion, mixed, development, condo, retail, high, dense, think, 4, block, condo, launch, year, block, d, launch",Nidz,"May 29 2017, 03:59 PM",-0.8689
+611,"remember, clio, residential, commercial, title?if, commercial, developer, convert, residential",boo82,"Jun 2 2017, 01:02 PM",0.0
+612,"commercial, title, mistaken.and, sale, person, developer, convert, title, residential, 100, sure, maybe, clio, complete, jmb, proceed, matter",Nidz,"Jun 3 2017, 07:48 PM",0.34
+613,"know, developer, convert, collect, authorization, majority, owner, convert, self, case, conezion",10cent,"Jun 3 2017, 09:01 PM",0.0
+614,10cent,TSaccetera,"Jun 6 2017, 09:16 AM",0.0
+615,"today, view, highway",peyter,"Jun 9 2017, 03:07 PM",0.0
+616,"know, targette, completion, want, sell, unit",Chipmunk85,"Jun 18 2017, 08:22 PM",0.0772
+617,"u, buy",MNet,"Jun 21 2017, 09:34 AM",0.0
+618,"yah, u, interested",Chipmunk85,"Jun 21 2017, 10:09 AM",0.4019
+619,"u, buy",MNet,"Jul 5 2017, 06:32 PM",0.0
+620,"bout, 940k",Chipmunk85,"Jul 7 2017, 07:15 AM",0.0
+621,"price, buy, super, link, land, cyberjaya, ..., cyberjaya, eat, pork, ..., putrajaya, ..., halal, compliance",bigman,"Jul 9 2017, 02:31 PM",0.5994
+622,"price, buy, super, link, land, cyberjaya, ..., cyberjaya, eat, pork, ..., putrajaya, ..., halal, compliance",bigman,"Jul 10 2017, 05:34 PM",0.5994
+623,"u, sss, ........., u, taruk, hard, year",BEANCOUNTER,"Aug 30 2017, 05:44 PM",-0.1027
+624,hahahaha,Chipmunk85,"Aug 30 2017, 05:46 PM",0.0
+625,"guy, look, online, planning, unit, try, www.floorplanner.comcan, feel, unit, decorate",peyter,"Sep 8 2017, 09:33 PM",0.0
+626,"conezion, residential, title, mixed, development, clio, high, chance, standalone, low, density, zero, commercial",meejawa,"Sep 9 2017, 10:43 AM",-0.0258
+627,"ioi, mall, pork, meh?also, walk, distance, mall, lot, commercial, happen, hotel, golf, club, etc, time, mature, cyberjaya, strength, think, mix, development, residential, gate, guard, stay, jam, good, infra",meejawa,"Sep 18 2017, 08:57 AM",0.836
+628,"yes, mean, conezion, possible, convert, residential, title, sale, person, ioi, tell, owner, check, tnb, answer, convert, self, authorization, majority, owner, vp",10cent,"Sep 22 2017, 02:34 PM",0.4019
+629,"mix, development, probably, separate, jmb, residential, commercial, easy, residential, owner, convert",Nidz,"Sep 22 2017, 05:55 PM",0.4404
+630,"sale, staff, tell, possible, course, mean, development, service, apt, apply, residential, title",meejawa,"Sep 23 2017, 01:48 PM",0.0
+631,"nidz, know, condo, ready, officially, aug, sept, 2017, look, picture, progress, fast",ftan,"Sep 23 2017, 05:11 PM",0.6486
+632,"ftan, hope, vp, soon, possible, think, developer, close, date, want, pay, late, delivery, penalty",Nidz,"Sep 24 2017, 12:35 PM",-0.0516
+633,"hmm, developer, stick, date, 3q, 2017, fine, way, want, prepare",ftan,"Sep 24 2017, 06:23 PM",0.2732
+634,"hi, late, photo, clio, follow, link, http://www.ioiproperties.com.my, datum, image, ..., s_photo__1_.jpghttp://www.ioiproperties.com.my, data, image, ..., s_photo__2_.jpghttp://www.ioiproperties.com.my, data, image, ..., s_photo__3_.jpg",peyter,"Sep 25 2017, 05:52 PM",0.0
+635,"nice, modern, facade, wonder, price, completion",Chipmunk85,"Sep 25 2017, 05:53 PM",0.4215
+636,"think, fully, sell, build, new, unit, 🤔, 🤔",Kicimiao66cc,"Sep 27 2017, 10:14 AM",0.0
+637,"maybe, reject, unit",theevilman1909,"Sep 27 2017, 10:30 AM",-0.4019
+638,"reject, unit, necessary, build, new, unit, sell, baaa, ..., reject, 50, unit, shoot, 😅",Kicimiao66cc,"Sep 27 2017, 12:32 PM",-0.7783
+639,"unit, actual, condo, near, completion, specially, build, separate, site, big, available, unit",chicargo,"Sep 27 2017, 02:15 PM",0.0
+640,"look, today, unit, 14xx, sq, ft, floor, sa, kind, 872, sq, ft, .some, thing, note, of:-, vp, plan, august, early, accord, sa, inform, batches.-, 20, unit, available, sale.-, lift, fast, quiet.-, air, con, daikin, brand, inverter, sticker, there.-, cooker, hood, teka, brand, forget, check, flat, stove, brand.-, kitchen, cabinet, need, cabinet, need, storage, space.-, panic, button, hall, master, bedroom.-, dining, living, hall, small, 872sq, ft, condo, need, careful, planning, maximize, space, think, need, trip, check, feel, like, miss, detail, overall, happy, preview",ftan,"Sep 27 2017, 02:17 PM",0.6597
+641,"need, book, view, unit, walk",Nidz,"Sep 27 2017, 06:09 PM",0.0
+642,"need, appointment, ioi, galleria, find, sa, wiling, separate, car",ftan,"Sep 28 2017, 04:21 PM",0.0
+643,"good, sa, open, daily, sunday, lunch, time, close, good, time, 1000, 1200, 1400, 1600",peyter,"Sep 29 2017, 07:09 AM",0.7003
+644,"sample, photo, unit, available, https://m.facebook.com/clio-residences-1536...70486/?__tn__=cmet, taiwanese, site, engineer, foreman, nice, young, chap",peyter,"Sep 29 2017, 07:49 AM",0.4215
+645,package,rainman19,"Sep 29 2017, 11:07 AM",0.0
+646,"ask, sa",peyter,"Sep 29 2017, 02:10 PM",0.0
+647,"hi, yale, digital, door, locks, sale, currently, company, promo, lot, freebie, bundle, plus, additional, freebie, 10, unit, interested",vampireangel1984,"Sep 30 2017, 11:15 AM",0.8074
+648,"hear, sa, vp, delay, november, news",ftan,"Sep 30 2017, 02:05 PM",-0.3182
+649,"wow, hear, august",peyter,"Sep 30 2017, 10:35 PM",0.5859
+650,"yeah, hear, weekend, chat, sa.i, sign, s&p, mid, sept, ok, delay, time, december, fix, reno, necessary",ftan,"Oct 2 2017, 03:28 PM",0.2732
+651,"far, clio, facade, look, jialat, disastrous, .., macam, mid, end, apartment",HELLO HELLO,"Oct 2 2017, 03:59 PM",-0.5994
+652,"yeah, facade, wise, contemporary, tnb, account, set, owner, ..., vp, soon",peyter,"Oct 3 2017, 10:53 AM",0.6486
+653,photo,MNet,"Oct 3 2017, 11:08 AM",0.0
+654,"page, photosor, try, https://www.facebook.com, clio, residences-153654991670486, http://www.ioiproperties.com.my, theclioresidences/",peyter,"Oct 4 2017, 04:40 PM",0.0
+655,"recall, multi, purpose, hall, clio, fuzzy, recollection, ...",peyter,"Oct 4 2017, 04:54 PM",0.0
+656,"got, letter, vp, state, need, ensure, payment, key, thing, esp, bank/, gov, disburse, need, sure, gov, pay, b4, key",Yvonne YY,"Oct 8 2017, 08:50 AM",0.5423
+657,"got, vp, email, today, wait, letter",Yvonne YY,"Oct 8 2017, 11:11 AM",0.0
+658,"sister, vp, letter, need, pay, set, appointment, joint, inspection, hand, key",Nidz,"Oct 8 2017, 02:52 PM",0.4215
+659,"pls, report, defect",MNet,"Oct 8 2017, 04:10 PM",-0.2732
