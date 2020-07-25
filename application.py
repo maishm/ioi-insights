@@ -36,15 +36,16 @@ df_clio = pd.read_csv("model/post_data/sentiment_mapped/df_clio.csv")
 df_tuai = pd.read_csv("model/post_data/sentiment_mapped/df_tuai.csv")
 mapped_df = pd.read_csv("data/mapped_df.csv")
 
-st.title("IOI Insights")
+st.title("IOI Listen - Insights Through Social Listening")
 st.markdown("""
             Team Green Phoenix. 
-            ### Get dynamic updates on properties through social listening. Locate the hottest trending properties right now and deep dive into each to understand why. 
+            ### Locate the hottest trending properties right now and deep dive into each to understand why. 
             """)
 st.sidebar.markdown("""
                     ## The go to place to understand the current property market in klang valley.  
                     <p> Community feedback is quantified and shown at a property level, enabling marketeers 
-                    and other decision makers identify the problems and opportunities like never before. </p>""",
+                    and other decision makers to identify the problems and opportunities like never before. </p>
+                    """,
                     unsafe_allow_html=True)
 
 st.sidebar.button('Refresh Data')
@@ -79,7 +80,8 @@ def generate_fig1():
         color_continuous_scale="Viridis",
         zoom=10,
         height=600,
-        labels=labels_fig1)
+        labels=labels_fig1,
+        size='total_score')
     fig1.update_layout(mapbox_style="dark", mapbox_accesstoken=token)
     fig1.update_layout(margin={"r": 0, "t": 0, "l": 0, "b": 0})
     return fig1
@@ -128,9 +130,9 @@ st.title("Sentiment Analysis")
 st.markdown("We have to look at what people are saying about these properties to quantify it and make sense out of it.")
 option = st.selectbox('Choose a Property:', options=['-', 'ELMINA GREEN 3 BY SIME DARBY', 'THE CRUISE @ BANDAR PUTERI PUCHONG', 'TUAI RESIDENCE @ SETIA ALAM', 'THE CLIO RESIDENCE @ IOI RESORT CITY'])
 if option == '-': 
-    st.warning('Select a property to continue')
+    st.warning('Select a Property')
 else: 
-
+    
     def sentiment_analysis(): 
 
         if option == 'ELMINA GREEN 3 BY SIME DARBY': 
@@ -144,20 +146,15 @@ else:
 
         sentiment_df['date'] = pd.to_datetime(sentiment_df['date'])
         sentiment_df['sentences'] = sentiment_df['sentences'].astype(str)
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace(".", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("elmina", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace(",", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("nit", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("...,", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("..,", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("...", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("..", ""))    
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("u,", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("u", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("le,", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("le", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("psf,", ""))
-        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : x.replace("sa", ""))
+
+        def replace_all(text, dic):
+            for i, j in dic.items():
+                text = text.replace(i, j)
+            return text
+        replacement_dict = {"." : "", "elmina" : "", "," : "", "nit" : "", "...," : "", "..," : "", "..." : "", ".." : "", "u," : "",  
+                            "u" : "", "le," : "", "le" : "", "psf" : "", "sa" : "", "1" : "", "by" : "", "2" : "", "hi" : "", 
+                            "3" : "", "0" : "", "5" : ""}
+        sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : replace_all(x, replacement_dict))
         sentiment_df['sentiment_type'] = sentiment_df['sentiment_score'].apply(lambda x: 'Positive' if (x > 0) else 'Negative')
         sentiment_df['sentiment_score'] = sentiment_df['sentiment_score'].astype(float)
         min_date = sentiment_df['date'].min().strftime('%d %B, %Y')
@@ -178,7 +175,7 @@ else:
                                                 "Negative": "tomato"})
 
         st.markdown(f"""**Total sentiment score for this property is {round(sentiment_df['sentiment_score'].sum())}**.\n
-                        Total {sentiment_df['users'].nunique()} people have written about this since {min_date}.""")
+                        Total {sentiment_df['users'].count()} people have written about this since {min_date}.""")
         st.write(fig3)
         st.write(fig4)
 
@@ -191,7 +188,6 @@ else:
         common_words = pd.DataFrame(counts_words.most_common(30),
                              columns=['word', 'count'])
 
-        # Plot horizontal bar graph
         fig5 = px.bar(common_words.sort_values('count', ascending=True), x='count', y='word',
                     labels={'count' : 'Number of Occurences', 'word' : 'Word'},
                     title='Most Common Words',
@@ -200,9 +196,6 @@ else:
 
 
         st.write(fig5)
-
-
-
 
     sentiment_analysis()
 
