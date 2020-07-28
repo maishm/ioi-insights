@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import datetime
+import os
 import streamlit as st
 import geojson
 import geopandas as gpd
@@ -28,7 +29,8 @@ def max_width():
     )
 
 max_width()
-token = "pk.eyJ1IjoibWFpc2htIiwiYSI6ImNrY3l5Z2t4ajBjbnkydGw1cnh5ZzE2M28ifQ.l6cx1ryk4TasgOVXa1rCRQ" 
+st.write(os.environ)
+token = os.getenv('MAPBOX_TOKEN')
 df = pd.read_csv("data/clean_forum_data.csv")
 df_elmina = pd.read_csv("model/post_data/sentiment_mapped/df_elmina.csv")
 df_cruise = pd.read_csv("model/post_data/sentiment_mapped/df_cruise.csv")

@@ -9,7 +9,7 @@ ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
 logger.addHandler(ch)
 
-API_KEY = 'AIzaSyCifsOBkgQKBO3_5qTzktyNsBE3PnKvvFw'
+API_KEY = os.getenv('G_API_KEY')
 
 BACKOFF_TIME = 30
 
