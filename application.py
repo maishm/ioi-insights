@@ -29,8 +29,7 @@ def max_width():
     )
 
 max_width()
-st.write(os.environ)
-token = os.getenv('MAPBOX_TOKEN')
+token = os.environ['MAPBOX_TOKEN']
 df = pd.read_csv("data/clean_forum_data.csv")
 df_elmina = pd.read_csv("model/post_data/sentiment_mapped/df_elmina.csv")
 df_cruise = pd.read_csv("model/post_data/sentiment_mapped/df_cruise.csv")

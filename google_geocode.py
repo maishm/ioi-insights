@@ -2,6 +2,7 @@ import pandas as pd
 import requests
 import logging
 import time
+import os
 
 logger = logging.getLogger("root")
 logger.setLevel(logging.DEBUG)
@@ -9,7 +10,7 @@ ch = logging.StreamHandler()
 ch.setLevel(logging.DEBUG)
 logger.addHandler(ch)
 
-API_KEY = os.getenv('G_API_KEY')
+API_KEY = os.environ['G_API_KEY']
 
 BACKOFF_TIME = 30
 
