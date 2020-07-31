@@ -88,9 +88,14 @@ def generate_fig1():
     return fig1
 
 @st.cache(persist=True, allow_output_mutation=True)
-def generate_fig2():
+def load_geojson():
     with open("peninsular_malaysia.geojson") as f:
         gj = geojson.load(f)
+    return gj 
+
+@st.cache(persist=True, allow_output_mutation=True)
+def generate_fig2():
+    gj = load_geojson()
     labels_fig2 = {
         'replies': 'No. of Replies',
         'areas_within': 'Area Name',
@@ -153,7 +158,7 @@ else:
                 text = text.replace(i, j)
             return text
         replacement_dict = {"." : "", "elmina" : "", "," : "", "nit" : "", "...," : "", "..," : "", "..." : "", ".." : "", "u," : "",  
-                            "u" : "", "le," : "", "le" : "", "psf" : "", "sa" : "", "1" : "", "by" : "", "2" : "", "hi" : "", 
+                             "le," : "", "le" : "", "psf" : "", "sa" : "", "1" : "", "by" : "", "2" : "", "hi" : "", 
                             "3" : "", "0" : "", "5" : ""}
         sentiment_df['sentences'] = sentiment_df['sentences'].apply(lambda x : replace_all(x, replacement_dict))
         sentiment_df['sentiment_type'] = sentiment_df['sentiment_score'].apply(lambda x: 'Positive' if (x > 0) else 'Negative')
