@@ -29,7 +29,7 @@ def max_width():
     )
 
 max_width()
-token = "pk.eyJ1IjoibWFpc2htIiwiYSI6ImNrY3l5Z2t4ajBjbnkydGw1cnh5ZzE2M28ifQ.l6cx1ryk4TasgOVXa1rCRQ"
+token = os.environ['TOKEN']
 df = pd.read_csv("data/clean_forum_data.csv")
 df_elmina = pd.read_csv("model/post_data/sentiment_mapped/df_elmina.csv")
 df_cruise = pd.read_csv("model/post_data/sentiment_mapped/df_cruise.csv")
